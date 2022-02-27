@@ -1,0 +1,1865 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints support, set out in a sermon preached before the Honourable House of Commons assembled in Parliament. At a publick fast, 29. Iune, 1642. By William Gouge.</title>
+            <author>Gouge, William, 1578-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85487</idno>
+            <idno type="STC">Wing G1397</idno>
+            <idno type="STC">Thomason E107_1</idno>
+            <idno type="STC">ESTC R9775</idno>
+            <idno type="EEBO-CITATION">99873610</idno>
+            <idno type="PROQUEST">99873610</idno>
+            <idno type="VID">155989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints support, set out in a sermon preached before the Honourable House of Commons assembled in Parliament. At a publick fast, 29. Iune, 1642. By William Gouge.</title>
+                  <author>Gouge, William, 1578-1653.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. M. for Joshua Kirton at his Shop in Pauls Church-yard at the Signe of the white Horse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Running title reads: A sermon preached at the late fast before the Commons House of Parliament.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Nehemiah V, 19 --  Sermons --  Early works to 1800.</term>
+               <term>Presbyterian Church --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:155989:1"/>
+            <opener>
+               <date>Die Mercurij, 29. Iunij, 1642.</date>
+            </opener>
+            <p>IT is this day Ordered by the
+COMMONS now aſſembled in
+PARLIAMENT, That Sir <hi>Thomas
+Barrington</hi> doe returne thanks to
+Doctor <hi>Gouge</hi> for the great pains he
+took in his Sermon this day preach't
+at S<hi rend="sup">t</hi>. <hi>Margarets</hi> in <hi>Weſtminſter</hi> at
+the intreaty of the COMMONS
+Houſe of PARLIAMENT, this be<g ref="char:EOLhyphen"/>ing
+the day of the publike Faſt, and
+that he be deſired to Print his. Ser<g ref="char:EOLhyphen"/>mon;
+and that no man preſume to
+print it, but ſuch as he ſhall appoint,
+till the Houſe ſhall take further Or<g ref="char:EOLhyphen"/>der.</p>
+            <closer>
+               <signed>
+                  <hi>H. Elſynge,</hi> Cler. Parl, D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment">
+            <p>I Appoint <hi>Ioſhua Kirton</hi> to Print the fore-ſaid
+Sermon.</p>
+            <closer>
+               <signed>WILLIAM GOUGE.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:155989:1" rendition="simple:additions"/>
+            <p>THE
+SAINTS
+SVPPORT,
+<hi>Set out in</hi>
+A SERMON PREACHED
+Before the Honourable Houſe of
+COMMONS aſſembled in PARLIAMENT.</p>
+            <p>At a publick Faſt, 29. <hi>Iune,</hi> 1642.</p>
+            <p>
+               <hi>By</hi> William Gouge.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>
+               <bibl>ECCLUS. 49. 13.</bibl>
+               <p>Among the Elect was <hi>Nehemiah,</hi> whoſe renown is great.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi>
+Printed by <hi>G. M.</hi> for <hi>Joſhua Kirton</hi> at his Shop in <hi>Pauls</hi>
+Church-yard at the Signe of the white Horſe,
+MDCXLII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:155989:2"/>
+            <pb facs="tcp:155989:2"/>
+            <head>TO THE
+HONOVRABLE HOVSE
+of COMMONS aſſembled
+in PARLIAMENT.</head>
+            <opener>
+               <salute>Moſt worthy Patriots,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Wiſe-man among his ma<g ref="char:EOLhyphen"/>ny
+approved</hi> Proverbes,<note place="margin">
+                  <hi>Prov</hi> 25 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Iuxta modus ſuos. Merc. Quibus modia dici debet <hi>V<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> Tempore, ſuo. <hi>
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note>
+               <hi>hath this choyce one,</hi> A
+word ſpoaken upon his
+wheeles (<hi>ſo runnes the
+Originall, or</hi> ſet upon his
+meaſures, <hi>that is, as our Engliſh not unfit<g ref="char:EOLhyphen"/>ly
+hath tranſlated it,</hi> fitly ſpoken) A word
+fitly ſpoken, is the like Apples of Gold in pi<g ref="char:EOLhyphen"/>cutres
+<pb facs="tcp:155989:3"/>
+of ſilver; <hi>pretious and pleaſant. Pre<g ref="char:EOLhyphen"/>tious,
+as</hi> golden Apples: <hi>pleaſant</hi> as yel<g ref="char:EOLhyphen"/>low
+Gold curiouſly wrought and artificially wre<g ref="char:EOLhyphen"/>thed
+in white Silver.</p>
+            <p>This <hi>Proverbe</hi> turned my minde to thinke
+of ſome ſeaſonable Theame, after notice was
+given me, that by your Order, which to mee
+is a Law, I was deputed to preach before
+your Honourable Aſſembly. And I thinke I
+have hit upon a fit Subject, were I fit and able
+to handle it as it is meet to be handled in ſuch an Aſ<g ref="char:EOLhyphen"/>ſembly.</p>
+            <p>It is the Patterne of a good Patriot.</p>
+            <p>A point pertinent in <hi>Generall</hi> and <hi>Particu<g ref="char:EOLhyphen"/>lar.</hi>
+            </p>
+            <p>In <hi>Generall,</hi> a Patterne or Example regi<g ref="char:EOLhyphen"/>ſtred
+and approoved in Sacred Scripture,
+ſhews</p>
+            <p>1. What is the good and acceptable will of God.</p>
+            <p>2.<note n="*" place="margin">Si inveniun<g ref="char:EOLhyphen"/>tur exempla quae nos per re<g ref="char:EOLhyphen"/>ctan ducunt viam, ſequen. da ſunt. <hi>Hier.</hi> ad celant.</note> What in like caſe others are bound to doe.</p>
+            <p>3.<note n="†" place="margin">Excitamur in ipem, qua nos e<g ref="char:EOLhyphen"/>tiam ita poſſe vivere, qui ho<g ref="char:EOLhyphen"/>mines ſum ex eo quod aliqui homines ita vixerunt, mi<g ref="char:EOLhyphen"/>nimè deſpera<g ref="char:EOLhyphen"/>mus. <hi>Aug</hi> de Trin. l. 8. c. 9.</note> What may be done by ſuch as will thorowly
+ſet themſelves to it.</p>
+            <p>4. VVhat, when it is ſo done, may be pleaded
+in an humble-ſelf-denying manner before God.</p>
+            <p>
+               <pb facs="tcp:155989:3"/>
+In <hi>Particular</hi> this Example of <hi>Nehemiah</hi>
+ſhewes,</p>
+            <p>1. VVho is a good Patriot.</p>
+            <p>2. How he ought to behave himſelfe.</p>
+            <p>3.<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Plut</hi> de Lib inſtit.</note> VVhat difficulties and dangers attend him.</p>
+            <p>4. VVhat oppoſition and contradiction hee is
+like to meet with.</p>
+            <p>5. VVhat reſolutions become him.</p>
+            <p>6. On whom his confidence is to be placed.</p>
+            <p>Our times are in many things not much unlike to
+the time wherein <hi>Nehemiah</hi> came to <hi>Jeruſalem.</hi>
+            </p>
+            <p>Grievances in State.</p>
+            <p>Corruptions in Church.</p>
+            <p>He did as much as in him lay (and that indeed
+was very much) for redreſſing of the one, and re<g ref="char:EOLhyphen"/>moving
+of the other.</p>
+            <p>His patterne is not onely an <hi>Inſtruction,</hi> to
+teach what is to be done: or an <hi>Incitation</hi> to ſtir
+up ſuch as know what is to be done: but alſo a <hi>Iu<g ref="char:EOLhyphen"/>ſtification</hi>
+and <hi>Approbation</hi> of ſuch as doe as
+he did.</p>
+            <p>
+               <hi>And they may looke for ſuch an end,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. Ioſeph An<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iq. Iul. l. 11. c. 5.</note> 
+               <hi>as</hi> Ioſe<g ref="char:EOLhyphen"/>phus
+<hi>teſtifies that</hi> Nehemiah <hi>had. His teſtimo<g ref="char:EOLhyphen"/>ny
+is this,</hi> When <hi>Nehemiah</hi> had done moſt
+<pb facs="tcp:155989:4"/>
+magnificently many good things worthy of
+praiſe, being an old man he died, and leſt
+behind him the name of a gracious, juſt and
+bountifull man toward his owne Nation.</p>
+            <p>The Lord encline our great Kings heart to you, as
+he did the heart of <hi>Nehemiahs</hi> King to him, and
+ſo worke by you, as he did by him: that every of
+you may with ſuch confidence ſay to your God, as he
+did to his, <hi>Thinke on me, my GOD for good,</hi>
+according <hi>to all that I have done for this Peo<g ref="char:EOLhyphen"/>ple.</hi>
+This is, this ſhall be, the prayer of</p>
+            <closer>
+               <signed>Your daily Oratour<lb/>
+                  <hi>William Gouge.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:155989:4"/>
+            <head>A
+SERMON PREACHED
+Before the Honourable Houſe of
+COMMONS, at the celebration of a
+FAST 29. Iune, 1642.</head>
+            <epigraph>
+               <q>
+                  <bibl>NEHEM. 5. 19.</bibl>
+                  <p>Thinke upon me, my God, for good, according
+to all that I have done for this people.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hoſe two motives which en<g ref="char:EOLhyphen"/>duced
+the good Patriot <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi>
+to preferre this Petition
+to his God, have enduced
+me to chooſe it for my Text,
+to handle it before ſo many
+worthy Patriots as are now
+met together to preſent their
+humble ſupplications to their God.</p>
+            <p>The two motives were theſe,</p>
+            <p>1. The many, great, good things which he had
+done for the Church and State.</p>
+            <p>2. The many, great, deſperate dangers which
+<pb n="2" facs="tcp:155989:5"/>
+he had met with, and knew he ſhould further meet
+with in proſecuting his good beginnings.</p>
+            <p>Whether there be not at this time the like occaſi<g ref="char:EOLhyphen"/>ons
+for the repreſentative body of this Kingdome,
+as one man, to pray and ſay, <hi>Thinke upon me my God
+for good, according to all that I have done for this
+people,</hi> let the times judge.</p>
+            <p>To this Text the more diligent heed is to be gi<g ref="char:EOLhyphen"/>ven,
+in that it containeth the laſt memorable mat<g ref="char:EOLhyphen"/>ter
+which the Holy Ghoſt ſaw meet to commend
+to his Church in the old Teſtament. For the for<g ref="char:EOLhyphen"/>mer
+part of it (wherein the maine ſubſtance of the
+whole lyeth) is repeated in the laſt clauſe of this
+Booke,<note place="margin">Neh. 13. 31.</note> which is the laſt Booke of the old Teſta<g ref="char:EOLhyphen"/>ment.
+For all the Propheſies regiſtred in the old
+Teſtament were before <hi>Nehemiahs</hi> time: which
+thus appeareth. All but the three laſt were before
+the Captivity of the <hi>Iewes</hi> in <hi>Babylon.</hi> Two of thoſe
+laſt three,<note place="margin">Ezr. 5. 1. Hag. 1. 1. Zech. 1. 1.—7. 1.</note> 
+               <hi>Haggai</hi> and <hi>Zechary</hi> uttered their Pro<g ref="char:EOLhyphen"/>pheſies
+about the time that the Temple was finiſh<g ref="char:EOLhyphen"/>ed,
+in the foure firſt yeares of <hi>Darius</hi> his reigne.
+<hi>Malachi</hi> who is the laſt of all the Prophets prophe<g ref="char:EOLhyphen"/>cied
+anone after the Temple was built,<note place="margin">Malachi, id eſt Eſdras, poſt Aggeum &amp; Zechariam, qui ſub Dario pro<g ref="char:EOLhyphen"/>phet averunt, fu<g ref="char:EOLhyphen"/>iſse credendus eſt Hier in pro in Malach. Lege Clem A<g ref="char:EOLhyphen"/>lex Strom. l 1.</note> as is evi<g ref="char:EOLhyphen"/>dent
+by the maine ſcope of his Prophecy: So as
+he may well be thought to have uttered his Pro<g ref="char:EOLhyphen"/>pheſie
+in the daies of <hi>Darius,</hi> or in that time of <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi>
+reigne, wherein <hi>Ezra</hi> came firſt to <hi>Ieruſa<g ref="char:EOLhyphen"/>lem.</hi>
+For <hi>Malachi</hi> is ſuppoſed to be <hi>Ezra,</hi> and
+called <hi>Malachi,</hi> becauſe he was the Lords Meſſen<g ref="char:EOLhyphen"/>ger.</p>
+            <p>As for the booke of <hi>Heſter,</hi> though it be placed
+after this of <hi>Nehemiah,</hi> yet is it an Hiſtory of many
+<pb n="3" facs="tcp:155989:5"/>
+yeares before: for the things therin recorded were
+in the reigne of <hi>Ahaſhuerus,</hi>
+               <note place="margin">Hoſt. 1. 1.</note> of whom mention is
+made, <hi>Ezr.</hi> 4. 6. He ended his daies foureſcore
+yeares before <hi>Nehemiah</hi> came to <hi>Ieruſalem.</hi> The
+compiler of the bookes of the old Teſtament, had
+more reſpect of the order of <hi>matter</hi> then of <hi>time</hi> in
+placing <hi>Eſter</hi> after <hi>Nehemiah.</hi> For <hi>Ezra</hi> and <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi>
+are one continued Hiſtory, which ſets downe
+the reſtauration of the <hi>Iewes</hi> after their captivity.
+Both were written by <hi>Ezra,</hi> and of old called
+<hi>the firſt and ſecond booke of Eſdras:</hi>
+               <note place="margin">Apud Hebraeos Eſdrae, Neem<g ref="char:EOLhyphen"/>ae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſermones in<g ref="char:EOLhyphen"/>unum volumen coartantur. Hie<g ref="char:EOLhyphen"/>ron in Eſd. &amp; Neem praeſat. <hi>Ezr.</hi> 2. 2.—3. 8.</note> yea by
+the <hi>Hebrewes</hi> they were both brought into one
+Volume.</p>
+            <p>For the foreſaid end of ſetling the State of the
+<hi>Iewes</hi> there were three ſolemne commings of three
+famous perſons to <hi>Ieruſalem.</hi> The firſt was of <hi>Ze<g ref="char:EOLhyphen"/>rubbabel,</hi>
+who being a young man laid the founda<g ref="char:EOLhyphen"/>tion
+of the Temple in the reigne of <hi>Cyrus,</hi> and be<g ref="char:EOLhyphen"/>ing
+an old man finiſhed it in the reigne of <hi>Darius.</hi>
+The ſecond was of <hi>Ezra,</hi>
+               <note place="margin">—6. 15.</note> 
+               <hi>a ready Scribe in the Law
+of</hi> Moſes,<note place="margin">—7. 6.</note> whoſe comming was<note n="*" place="margin">After the re<g ref="char:EOLhyphen"/>turne of the Iews <hi>Cyrus</hi> raigned nine years, One <hi>Da<g ref="char:EOLhyphen"/>rius 36. Aha<g ref="char:EOLhyphen"/>ſhuerus</hi> 22. One <hi>Artaxerxes</hi> 40. Another <hi>Dari<g ref="char:EOLhyphen"/>us</hi> 19 Another <hi>Artaxerxes</hi> 7. before <hi>Ezra</hi> came. Neh. 5. 1. &amp;c.—13. 4.</note> about one hun<g ref="char:EOLhyphen"/>dred
+thirty and three yeares after the firſt, in the
+ſeventh yeare of <hi>Artaxerxes.</hi> He came to inſtruct
+the <hi>Iewes</hi> in the Law of God. The third was of
+<hi>Nehemiah,</hi> thirteene yeares after <hi>Ezras.</hi> The end
+of his comming was to build up the City of God
+and the wall thereof, that Gods people might ther<g ref="char:EOLhyphen"/>in
+more freely obſerve Gods Ordinances, and live
+in ſafety and ſecurity from their enemies. When
+he came thither he found many Grievances in the
+State, and corruptions in the Church. <hi>Thoſe</hi> he re<g ref="char:EOLhyphen"/>dreſſed,
+<hi>theſe</hi> he remooved: and withall ſetled
+<pb n="4" facs="tcp:155989:6"/>
+the <hi>Sabbaths Sanctification.</hi>
+               <note place="margin">Ne. 13. 15, &amp;c.</note>
+            </p>
+            <p>To ſhew whence he received his courage to doe
+what he did, notwithſtanding the ſtrong and great
+oppoſitions againſt him, it is oft noted in this book,
+that his heart was on his God, to whom on all oc<g ref="char:EOLhyphen"/>caſions
+he preferred his prayer in the beginning, pro<g ref="char:EOLhyphen"/>greſſe
+and end of all.</p>
+            <p>So ſoone as he heard of an occaſion of going to
+<hi>Ieruſalem,</hi>
+               <note place="margin">Neh. 1. 4. &amp;c.</note> he made his prayer to God. It was the
+firſt thing he did. Ever and anone was his heart
+lift up unto God in the Progreſſe.<note n="*" place="margin">Neh. 2. 4.—4. 4.—4. 9.—5. 19.—6. 14.—13. 14.—22.—29.</note> Eight parti<g ref="char:EOLhyphen"/>cular
+inſtances therof betwixt his firſt and laſt pray<g ref="char:EOLhyphen"/>er,
+are expreſly noted in this Hiſtory. This Hi<g ref="char:EOLhyphen"/>ſtory
+is concluded with the ſame prayer that is in
+my Text.</p>
+            <p>Thus you ſee how my Text is inſerted in the
+midſt of this Hiſtory, as a Demonſtration of the
+Support whereon this Patriot reſted, and whereby
+he was encouraged in his good, great, difficult, dan<g ref="char:EOLhyphen"/>gerous
+attempts.</p>
+            <p>May I in this Auditory have leave to give, <hi>meo
+more &amp; modo,</hi> after my ordinary and plaine manner,
+the <hi>Grammaticall</hi> Interpretation and <hi>Logicall</hi> Reſo<g ref="char:EOLhyphen"/>lution
+of the Text, a more ready way will be made
+thereby for raiſing and proſecuting proper <hi>Theologi<g ref="char:EOLhyphen"/>call</hi>
+Obſervations thereout.</p>
+            <p>Firſt,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> therefore of the ſence.</p>
+            <p>The word tranſlated, <hi>Thinke,</hi> properly ſignifieth
+<hi>Remember.</hi>
+               <note place="margin">Neh. 1. 8.—6. 14.—13. 14.—22.—29.—31.</note> So it is in other places tranſlated even
+by theſe Tranſlators, and that ſix times in this book
+applyed to God.</p>
+            <p>It importeth two things.</p>
+            <p>
+               <pb n="5" facs="tcp:155989:6"/>
+1. To keepe and hold faſt in mind and memo<g ref="char:EOLhyphen"/>ry
+what is once knowne. So it is oppoſed to for<g ref="char:EOLhyphen"/>getfulneſſe:
+as where the Law ſaith, <hi>Remember and
+Forget not.</hi>
+               <note place="margin">Deut. 9. 7.</note>
+            </p>
+            <p>2. To call againe to mind and memory what was
+once knowne, but after forgotten: in which ſence
+ſaith <hi>Pharaohs</hi> Butler,<note place="margin">Gen. 41. 9.—40. 23.</note> 
+               <hi>I doe remember my faults this
+day.</hi> He had forgotten his faults, his impriſon<g ref="char:EOLhyphen"/>ment,
+his dreame, the interpretation and iſſue ther<g ref="char:EOLhyphen"/>of
+(all which are implyed under this phraſe, <hi>The
+chiefe Butler did not Remember</hi> Joſeph, <hi>but forgat
+him</hi>) But by the wiſe mens ignorance of the mea<g ref="char:EOLhyphen"/>ning
+of <hi>Pharaohs</hi> dreames, hee remembred and
+called to mind his faults, and what followed there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>In theſe two reſpects a word derived from this
+root is put for <hi>a Memoriall:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Exod. 28. 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Eſt. 6. 1.</note> and for <hi>Records:</hi> by
+which matters are ſo kept and retained, as they are
+not loſt or forgotten: and by which if matters be
+forgotten they may be againe called to mind, as
+<hi>Mordecais</hi> faithfulneſſe to the King being forgot<g ref="char:EOLhyphen"/>ten,
+was by the Kings hearing the <hi>Records</hi> brought
+to his mind.</p>
+            <p>This act of <hi>Remembring</hi> is in ſacred Scripture ap<g ref="char:EOLhyphen"/>plyed
+to God and man.</p>
+            <p>To man properly in both the fore-mentioned
+acceptions. As the two proofes doe ſhew. For
+to man it was ſaid,<note place="margin">Deut. 9. 7. Gen. 41. 9.</note> 
+               <hi>Remember and forget not:</hi>
+and he was a man that ſaid, <hi>I doe remember my
+faults.</hi>
+            </p>
+            <p>To God it is moſt properly applyed in the for<g ref="char:EOLhyphen"/>mer
+ſignification. For he ever faſt holds in memo<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:155989:7"/>
+and never forgets what he once knowes:<note place="margin">Act. 15. 18.</note> And
+<hi>knowne unto God are all his workes from the beginning of
+the world.</hi>
+            </p>
+            <p>Yea, alſo in the latter ſignification it is oft attri<g ref="char:EOLhyphen"/>buted
+to God,<note place="margin">Ier. 44. 21.</note> as where it is ſaid, <hi>Did not the Lord
+remember them? and came it not into his minde?</hi>
+The latter phraſe ſheweth that the act of remem<g ref="char:EOLhyphen"/>bring
+attributed to God in the former clauſe, is
+ment of calling to mind what was formerly known.
+<hi>Iob</hi> oft calleth on God to <hi>remember</hi> him in this ſence.<note place="margin">Iob 7, 7.—10, 9.—14, 13. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+In this reſpect God is ſaid to have <hi>Remembrancers:</hi>
+to whom he thus ſaith, <hi>Put me in Remembrance:</hi>
+and to this end he is ſaid to have a booke of <hi>Remem<g ref="char:EOLhyphen"/>brance.</hi>
+               <note place="margin">See Margin on Iſa. 62. 6. Iſa. 43. 26. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Mal. 3. 16 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+But ſurely theſe things cannot be properly
+ſpoken of God. They are to be taken <hi>tropically,</hi>
+by way of reſemblance, after the manner of man.
+When men having forgotten a friend, neglect him,
+doe nothing for him, ſuffer him to want, to be op<g ref="char:EOLhyphen"/>preſſed,
+to lye in priſon, or remaine in captivity,
+but being put in mind that he is ſuch and ſuch a
+friend, doe good to him and ſuccour him, are ſaid
+to remember him: So God (when after long ſuf<g ref="char:EOLhyphen"/>fering
+his children to want ſuch and ſuch a bleſſing,
+or to lye under ſuch and ſuch a croſſe, hee
+beſtoweth on them the bleſſing which they ſo
+long waited for or freeth them from the croſſe
+under which they lay ſo long) though he never
+forgat them, but knew and ſaw their want and
+preſſure, is ſaid to remember them. Thus he <hi>re<g ref="char:EOLhyphen"/>membred
+Rachell,</hi>
+               <note place="margin">Gen. 30. 22. Exod. 2. 24.</note> who had long wanted a childe:
+and the <hi>Iſraelites,</hi> who had long lien under bon<g ref="char:EOLhyphen"/>dage.</p>
+            <p>
+               <pb n="7" facs="tcp:155989:7"/>
+In briefe <hi>Nehemiah</hi> by this phraſe, <hi>Thinke upon</hi>
+or <hi>Remember,</hi> intendeth that God would ſo deale
+with him, as he himſelfe might have aſſurance and
+others evidence, that God did thinke upon what he
+did and well remember it.</p>
+            <p>This Petition he makes, not as doubting of Gods
+good-will to him, but as reſting on God for ſome
+evidence thereof. For what beleevers expect from
+God they pray for: and what they pray for, with
+confidence they expect to receive.</p>
+            <p>To give further evidence of his ſpeciall aſſiance
+on God, he reſtraineth this act of Gods good-will
+to himſelfe in particular,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> by this clauſe, <hi>upon me,</hi>
+and it carrieth this Emphaſis, that though the Lord
+regarded not them who teſtified no hearty affection
+to himſelf, his houſe or people, yet he would thinke
+upon him whoſe heart was ſet on all theſe. <hi>Thinke
+on me.</hi>
+            </p>
+            <p>The next clauſe, <hi>my God,</hi> doth yet further ſet
+out that his ſpeciall affiance on God.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>My,</hi> is an ap<g ref="char:EOLhyphen"/>propriating
+particle: yet ſuch an one as admits o<g ref="char:EOLhyphen"/>thers
+that are of like quality. Nor this, nor the for<g ref="char:EOLhyphen"/>mer
+particle of ſpeciality, nor <hi>Me,</hi> nor <hi>My</hi> is to be ta<g ref="char:EOLhyphen"/>ken
+excluſively, as if he exempted all but himſelfe
+from theſe priviledges, for before this, he deſireth
+God to think on others like himſelf,<note place="margin">Neh. 1. 11.</note> thus, <hi>O Lord, I
+beſeech thee, let now thine care be attentive to the
+prayer of thy ſervant, and to the prayer of thy ſer<g ref="char:EOLhyphen"/>vants
+who deſire to feare thy name.</hi> And though
+<note n="a" place="margin">Neh 28, 18.—6. 14.—7. 5. 13. 14, 15, 29, 31.</note> ſometimes he expreſſe the relation betwixt God
+and himſelfe in the ſingular number, <hi>my God,</hi> yet
+<note n="b" place="margin">Neh. 4, 4, 9, 20.—13. 18, 17</note> other times in the plurall number, thus, <hi>our God,</hi>
+               <pb n="8" facs="tcp:155989:8"/>
+yea and in the ſecond and third perſons, thus,<note n="c" place="margin">Neh. 8. 9.</note> 
+               <hi>your
+God,</hi>
+               <note n="d" place="margin">Neh. 13. 26.</note> 
+               <hi>his God,</hi>
+               <note n="e" place="margin">Neh. 12. 45.</note> 
+               <hi>their God.</hi>
+            </p>
+            <p>He uſeth the firſt perſon and ſingular number (<hi>my
+God</hi>) to teſtifie the full aſſurance he had of his own
+intereſt in God. He uſeth other perſons and the
+plurall number (<hi>His God, Our God, Your God, Their
+God</hi>) to intimate the ſtrong perſwaſion he had of
+others like intereſt in God. The former is <hi>judici<g ref="char:EOLhyphen"/>um
+certitudinis,</hi> an aſſured knowledge: the latter
+<hi>judicium charitatis,</hi> a charitable belief. That theſe
+two may ſtand together is evident by theſe phraſes
+joyned together,<note n="f" place="margin">Ruth. 1. 16.</note> 
+               <hi>Thy God ſhall be my God:</hi>
+               <note n="g" place="margin">Ioh. 20. 17.</note> 
+               <hi>I aſcend
+to my God and your God.</hi>
+            </p>
+            <p>By the way take notice, that the mention which
+I made of the ſingular number, hath reſpect to the
+tranſlation,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>De iſtis decem nominibus lege</hi> Hier. <hi>Epiſt ad</hi> Marcel. See alſo the Churches con<g ref="char:EOLhyphen"/>queſt on Exod. 17. 15. Sect. 72.</note> rather then to the originall, eſpecially
+in the title <hi>GOD.</hi> For the Hebrew word is one
+of thoſe ten titles which in ſacred Sacred Scripture
+are as names attributed to God; and it is of the plu<g ref="char:EOLhyphen"/>rall
+number. As all the other titles have their ſigni<g ref="char:EOLhyphen"/>fications
+and myſteries, ſo this. It importeth a
+plurality of perſons: yet ſo as in conſtruction it in<g ref="char:EOLhyphen"/>timateth
+an unity,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Verbatim Dij creavit. <hi>Gen</hi> 1. 1.</note> an unity in nature, the unity of
+the Deity. For it is joyned with a verbe of the ſin<g ref="char:EOLhyphen"/>gular
+number: as in the firſt ſentence of the Bi<g ref="char:EOLhyphen"/>ble,
+which in other languages may imply ſome
+Grammaticall incongruity; but it expreſſeth a true
+Orthodox, Theologicall Myſtery: which God
+from the beginning would have to be knowne for
+his owne glory and Churches good. For (even our
+enemies, worſhippers of falſe gods being Judges)
+our God is ſuch a God, as no other God could e<g ref="char:EOLhyphen"/>ver
+<pb n="9" facs="tcp:155989:8"/>
+be imagined like unto him. Many of Gods
+incommunicable properties and workes have
+(though moſt unjuſtly and falſly) beene attribu<g ref="char:EOLhyphen"/>ted
+to falſe gods, as<note n="h" place="margin">O Pater ô ho<g ref="char:EOLhyphen"/>minum, <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aeternae pote, <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Virg. AEneid. 10.</note> eternity,<note n="i" place="margin">Te<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omnipo<g ref="char:EOLhyphen"/>tens Neptune in<g ref="char:EOLhyphen"/>voco, Cic Tuſc. l. 4.</note> omnipotency,
+<note n="k" place="margin">Ovid Met l 1.</note> creation of Heaven and Earth,<note n="l" place="margin">Ovis nutu &amp; arbitrio coeum, terra, mart<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> reguntur, Cic ac Fin.</note> divine provi<g ref="char:EOLhyphen"/>dence,
+and other the like. But it never came into
+the mind of any Idolater to imagine his God to be
+three in one. The <hi>Trinity</hi> in <hi>Vnity</hi> is a myſtery of
+myſteries, making much to the honour of him that
+is knowne and believed to be ſuch a God.</p>
+            <p>By it alſo we know and beleeve that the <hi>Spirit</hi>
+which proceedeth from the <hi>Father</hi> and the <hi>Son,</hi> and
+helpeth our infirmities, enableth us to doe the will
+of God and eſtabliſheth us againſt all aſſaults, is
+true God: and that the <hi>Sonne</hi> of God, the only
+begotten of the <hi>Father,</hi> the <hi>Mediatour</hi> betwixt
+God and man, is true God: and that the <hi>Father</hi>
+to whom we have acceſſe for all needfull bleſſing,
+is true God. Thus we have not many gods for
+many purpoſes; but one God for all turnes. One
+to enable us to goe to the throne of grace: One to
+mediate for us there: One to accept us there,
+all one God. Is not this a comfortable my<g ref="char:EOLhyphen"/>ſterie?</p>
+            <p>But this by the way.</p>
+            <p>That for which he deſireth his <hi>God to thinke up<g ref="char:EOLhyphen"/>on
+him,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 Sam. 7 28. 1 Kin. 8. 66.</note> is <hi>for good.</hi> The Hebrew word properly
+ſignifieth <hi>goodneſse,</hi> and is ſo tranſlated in ſun<g ref="char:EOLhyphen"/>dry
+places, oft in the <hi>Pſalmes</hi> and <hi>Prophets.</hi>
+Some therefore here take it for a property in
+God, and the cauſe or ground of his ſaith and hope,
+and of all bleſſing: as if he had thus expreſſed it,
+<pb n="10" facs="tcp:155989:9"/>
+               <hi>Thinke on me for thy goodneſſe ſake.</hi> This is in it
+ſelfe a good ſence, and anſwerable to this of <hi>Da<g ref="char:EOLhyphen"/>vid,
+Remember thou me for thy goodneſse ſake ô Lord.</hi>
+               <note place="margin">Pſ. 25. 7.</note>
+But in my Text the particle of relation to God,
+(<hi>Thy</hi>) is not expreſt, and the propoſition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> expreſ<g ref="char:EOLhyphen"/>ſed,
+admits not that ſence.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. In bonum.</note> Therefore the LXX.
+Greeke Interpreters, the ancient Latine and ſundry
+other tranſlate it as our Engliſh, <hi>for good:</hi> in like
+manner is this very word with this prepoſition tur<g ref="char:EOLhyphen"/>ned
+(<hi>Gen.</hi> 50. 20.) <hi>unto good.</hi> Thus it ſets downe
+the end why he would have God to thinke on him,
+namely, ſome good, benefit, bleſſing to himſelfe.
+That this is here intended, is further evident by
+that which followes, <hi>according to all that I have
+done,</hi> &amp;c.</p>
+            <p>Looke upon your books and yee will finde this
+word, <hi>according,</hi> in another character, which ſhew<g ref="char:EOLhyphen"/>eth
+that it is not in the Originall, as indeed it is not.
+Some therefore joyne theſe two words,<note place="margin">In bonum omni<g ref="char:EOLhyphen"/>um quae feci.</note> 
+               <hi>good, all,</hi>
+together, thus, <hi>for good of all that I have done.</hi> This
+expoſition might well ſtand,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Diſtinguit me<g ref="char:EOLhyphen"/>diam ſententi<g ref="char:EOLhyphen"/>am, &amp; reſpon<g ref="char:EOLhyphen"/>det colon.</note> but that there is an
+<hi>accent</hi> or <hi>pauſe</hi> annexed to the former word, which
+diſtinguiſheth ſentences, or at leaſt the parts of a ſen<g ref="char:EOLhyphen"/>tence.
+Something therefore muſt be underſtood
+to make up the latter part of this ſentence: and ſure<g ref="char:EOLhyphen"/>ly
+our Engliſh hath hit upon the fitteſt ſupplement,
+as the ancient Latin,<note place="margin">Secundum om<g ref="char:EOLhyphen"/>nia.</note> and ſundry other languages.
+The particle (<hi>according</hi>) here ſupplied, is oft on
+like occaſions expreſſed,<note place="margin">Pſ. 62. 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as where the <hi>Pſalmiſt</hi> ſaith
+to God, <hi>Thou rendereſt to every man according to his
+workes.</hi> By this ſupplement no merit, but the kind
+or quality, and meaſure or quantity of reward is
+<pb n="11" facs="tcp:155989:9"/>
+intended.<note place="margin">Gal. 6. 7, 8.</note> In regard of the <hi>kinde, whatſoever a man
+ſoweth, that ſhall he alſo reape.</hi> He that ſoweth
+wheat ſhall reape wheat: he that ſoweth tares ſhall
+reape tares: <hi>He that ſoweth to his fleſh, ſhall of the
+fleſh reape corruption: but he that ſoweth to the ſpi<g ref="char:EOLhyphen"/>rit,
+ſhall of the ſpirit reape life everlaſting.</hi>
+               <note place="margin">2 Cor. 9. 6.</note> In regard
+of the meaſure, <hi>He which ſoweth bountifully ſhall reap
+bountifully.</hi>
+            </p>
+            <p>Therefore he adds the next generall particle <hi>All,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+for All compriſeth many things under it, and exclu<g ref="char:EOLhyphen"/>deth
+not any at all.</p>
+            <p>That which he pleads of his owne doing in this
+phraſe (<hi>that I have done</hi>) is not to be taken in refe<g ref="char:EOLhyphen"/>rence
+to his owne ability in and of himſelf:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> but to
+the manifeſtation of the power of Gods Spirit in
+him,<note place="margin">Zach. 4. 6. 1 Cor 15. 10.</note> which God himſelfe thus expreſſeth, <hi>Not
+by might nor by power, but by my ſpirit,</hi> and Saint
+<hi>Paul</hi> thus, <hi>I have laboured more abundantly then they
+all: yet not I, but the grace of God which was
+with me.</hi>
+            </p>
+            <p>For further amplification of what he did, he ads
+the perſons in whoſe behalfe he did all that he did,
+<hi>for this people.</hi> He meanes hereby the <hi>Iewes,</hi> a<g ref="char:EOLhyphen"/>mong
+whom he then was, and thereupon as poin<g ref="char:EOLhyphen"/>ting
+at them, he uſeth a double demonſtrative par<g ref="char:EOLhyphen"/>ticle,
+as if to the full it had bin thus expreſſed,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>for
+this people,</hi> even <hi>this.</hi> Well might he ſet this em<g ref="char:EOLhyphen"/>phaſis
+upon that people, becauſe at that time they
+were the only Church of God,<note place="margin">Exod. 19. 5.</note> a peculiar treaſure
+unto him above all people.</p>
+            <p>Thus have you the plaine <hi>meaning</hi> of the Text.</p>
+            <p>The ſumme of all in two words is,</p>
+            <p>
+               <pb n="12" facs="tcp:155989:10"/>
+               <hi>Saints Support.</hi>
+            </p>
+            <p>Which is in one word <hi>GOD.</hi>
+            </p>
+            <p>This <hi>Support of Saints</hi> is ſet downe in forme of a
+Petition.</p>
+            <p>Therein is expreſſed,</p>
+            <p>1. The <hi>Perſon</hi> petitioned.</p>
+            <p>2. The <hi>Point</hi> prayed.</p>
+            <p>The <hi>Perſon</hi> is ſet out,</p>
+            <p>1. By his generall title, <hi>GOD.</hi>
+            </p>
+            <p>2. By his ſpeciall relation, <hi>MY.</hi>
+            </p>
+            <p>In the <hi>Point</hi> prayed for, ye may obſerve,</p>
+            <p>1. The <hi>Kind</hi>
+            </p>
+            <p>2. The <hi>End</hi> of it.</p>
+            <p>The <hi>Kinde</hi> points at,</p>
+            <p>1. An <hi>Act</hi> deſired of God, <hi>THINK VPON.</hi>
+            </p>
+            <p>2. The ſpeciall <hi>Object</hi> thereof, <hi>ME.</hi>
+            </p>
+            <p>The <hi>End</hi> is,</p>
+            <p>1. Generally propounded, <hi>FOR GOOD.</hi>
+            </p>
+            <p>2. Particularly amplified.</p>
+            <p>In the amplification are diſtinctly ſet downe.</p>
+            <p>1. <hi>The</hi> Ground, THAT I HAVE DONE.</p>
+            <p>2. <hi>The</hi> Rule, ACCORDING TO.</p>
+            <p>3. <hi>The</hi> Extent, ALL.</p>
+            <p>4. <hi>The</hi> Reſtraint <hi>or</hi> Limitation, FOR THIS
+PEOPLE.</p>
+            <p>Thinke upon me, my God, for good, <hi>according</hi> to
+all that I have done for this People.</p>
+            <p>The Obſervations hence ariſings are theſe.</p>
+            <p>I. <hi>GOD is the Support of Saints.</hi> This Saint by
+directing this his Petition to God, gives inſtance
+hereof.</p>
+            <p>II. <hi>The LORD is a peculiar GOD to a Belee<g ref="char:EOLhyphen"/>ver.</hi>
+               <pb n="13" facs="tcp:155989:10"/>
+This appropriating particle, <hi>MY,</hi> being ut<g ref="char:EOLhyphen"/>tered
+by a beleever in reference to God, evinceth
+as much.</p>
+            <p>III. GOD hath Remembrancers. <hi>He that ſaid to
+God,</hi> thinke upon <hi>or</hi> remember, <hi>was ſuch an one.</hi>
+            </p>
+            <p>IV. <hi>GODS mind is ſoonest drawne to his owne.</hi>
+He that could ſay, <hi>my God,</hi> was one of Gods owne
+and thereupon was perſwaded to ſay to his God,
+<hi>thinke upon ME,</hi> in confidence that God would
+ſoon ſo doe.</p>
+            <p>V. Prayer may be made for ones owne good. <hi>This
+phraſe</hi> for good, <hi>intends as much.</hi>
+            </p>
+            <p>VI. <hi>Workes may be pleaded before GOD.</hi> So doth
+he that in his prayer to God thus pleads, <hi>that I have
+done.</hi>
+            </p>
+            <p>VII. <hi>Mans workes are the rule of Gods reward.</hi>
+This is implied by the word fitly ſupplyed, <hi>ac<g ref="char:EOLhyphen"/>cording.</hi>
+            </p>
+            <p>VIII. <hi>Every thing well done ſhall be rewarded.</hi>
+This generall particle <hi>All,</hi> extends to every good
+work, and intends ſuch an extent of reward.</p>
+            <p>IX. <hi>Good done to GODS people is moſt accepta<g ref="char:EOLhyphen"/>ble.</hi>
+Thus much is manifeſted, as by the expreſſion
+of <hi>this people,</hi> ſo by the emphaſis added thereto, <hi>this
+people,</hi> even <hi>this.</hi>
+            </p>
+            <p>Theſe are the principall intendments of this
+Text.</p>
+            <p>That ye may the better diſcerne the true and juſt
+ground of all theſe points, and eſpecially of this Pa<g ref="char:EOLhyphen"/>triots
+confidence, whereby he was enboldened to
+put his God in mind, to <hi>thinke on him for good</hi> ac<g ref="char:EOLhyphen"/>cording
+<hi>to all that he had done for his people.</hi> I ſup<g ref="char:EOLhyphen"/>poſe
+<pb n="14" facs="tcp:155989:11"/>
+it will not be impertinent, nor yet unprofita<g ref="char:EOLhyphen"/>ble
+to give you a briefe view of ſuch particular acts
+done by him, as are in this booke diſtinctly ſpecifi<g ref="char:EOLhyphen"/>ed
+from the beginning to my Text. Hereby yee
+may have a pertinent patterne for Juſtification of
+what ye have done, and direction for what remains
+yet to be done: and withall ye may ſee in what
+courſes and cauſes yee may with confidence de<g ref="char:EOLhyphen"/>pend
+on your God and ſay, <hi>Thinke on us our God
+for good,</hi> according <hi>to all that we have done for
+this people.</hi>
+            </p>
+            <p>1. The firſt particular noted of him is an
+inquiſitive diſpoſition after the State of the Church,
+how it fared with her. So ſoone as he heard that
+<hi>Hanani</hi> and others were come from <hi>Iudah,</hi>
+               <note place="margin">Neh. 1. 2.</note> he <hi>asked
+them concerning the Iewes, and concerning</hi> Jeruſa<g ref="char:EOLhyphen"/>lem.
+He himſelfe was in a ſafe and ſecure place:
+He had the favour of the greateſt Monarch then
+on Earth: yet he thought not that enough: hee
+muſt know how the Church doth. By this en<g ref="char:EOLhyphen"/>quiry
+he came to know what otherwiſe, it may
+be, he ſhould never have knowne: and then the
+Church might have wanted all that good which
+he did for it.<note place="margin">Ignoti nulla cu<g ref="char:EOLhyphen"/>ptilo.</note> What eye ſees not or eare heares
+not, heart rues not. Naturall men are in a moſt
+woefull plight: But becauſe they know no<g ref="char:EOLhyphen"/>thing
+of it, they are no whit mooved with
+it, nor care to ſeeke any redreſſe for it. Ma<g ref="char:EOLhyphen"/>ny
+doe nothing for the Church, becauſe they know
+nothing of the Church. Be we therefore inqui<g ref="char:EOLhyphen"/>ſitive
+after it.</p>
+            <p>2. That which he heard of the Churches diſ<g ref="char:EOLhyphen"/>treſſe
+<pb n="15" facs="tcp:155989:11"/>
+wrought much compaſſion in him:<note place="margin">Neh. 1. 4.</note> For he
+<hi>ſate down and wept, and mourned certain dayes.</hi> By
+this ſympathy he ſhewes himſelf a true member of
+the Church.<note place="margin">1 Cor. 12. 26.</note> 
+               <hi>If one member ſuffer, all the members
+ſuffer with it.</hi> This cannot but beſeem the beſt.
+For of God himſelf it is thus ſaid,<note place="margin">Iud 10. 16. Iſa. 63. 15. Hoſ. 11. 8.</note> 
+               <hi>His ſoul was grie<g ref="char:EOLhyphen"/>ved
+for the affliction of Iſrael.</hi> In ſuch caſes <hi>his bow<g ref="char:EOLhyphen"/>ells</hi>
+are ſaid to <hi>ſound: and his heart</hi> to be <hi>turned with<g ref="char:EOLhyphen"/>in
+him.</hi> Art thou Lord ſo affected, and afflicted at
+our miſery, and we no whit moved with our own
+or others diſtreſſes?<note place="margin">Amo. 6. 1, &amp;c.</note> 
+               <hi>Woe,</hi> ſaith the Prophet, <hi>woe to
+them that are at eaſe,</hi> &amp;c. <hi>that stretch themſelvs upon
+their couches, and eate the Lambs out of the flock: that
+chant to the ſound of the violl: that drink wine in
+bowles, and annoint themſelvs with the chief ointments:
+but they are not grieved for the affliction of</hi> Joſeph.
+What good can be expected from ſuch ſenceleſſe
+diſpoſitions? That compaſſion which was wrought
+in this Patriot, ſet him on work, to do all that good
+which he did for the Church. <hi>Let this mind be in you,
+which was alſo in him.</hi>
+            </p>
+            <p>3. Before he attempts any thing, he goes to
+God. Firſt to God, then to the King. <hi>I prayed,</hi>
+ſaith he,<note place="margin">Neh. 1. 4.</note> 
+               <hi>before the God of Heaven.</hi> This made all
+that he did ſo ſucceſſefull as it was. <hi>Saul,</hi> though
+an hypocrite, could make this apology for his over<g ref="char:EOLhyphen"/>haſty
+ſacrifice,<note place="margin">1 Sam. 13. 12.</note> 
+               <hi>The</hi> Philiſtines <hi>will come down now
+upon me to</hi> Gilgal, <hi>and I have not made ſupplication to
+my God.</hi>
+               <note place="margin">A Love princi<g ref="char:EOLhyphen"/>pium.</note> The very Heathen did uſe to begin all
+with their God. Should not we Chriſtians ſo doe
+with our God? I am confident ye ſo doe: and
+thereupon with confidence I may ſay, Go on, and
+proſper.</p>
+            <p>
+               <pb n="16" facs="tcp:155989:12"/>
+4. He added one kind of prayer to another: to
+his daily, ordinary prayers, he added extraordinary.
+The phraſe of praying <hi>day and night,</hi>
+               <note place="margin">Neh. 1 6.</note> implies his
+conſtant morning and evening prayer, wherein he
+was ever mindfull of the children of <hi>Iſrael.</hi> His <hi>ſu<g ref="char:EOLhyphen"/>ſting</hi>
+was an evidence of extraordinary prayer.<note place="margin">—4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> This
+particle, <hi>now,</hi> or <hi>this day,</hi> prefixed before <hi>day and
+night,</hi> ſheweth that in this day of extraordinary
+prayer helped by faſting, he omitted not his ordi<g ref="char:EOLhyphen"/>nary
+morning and evening devotion. Thus much
+was prefigured in the Law.<note place="margin">Ex. 29 38, 39. Num. 28 3. <hi>&amp;c.</hi>
+               </note> For every day one
+Lamb was to be offered <hi>in the morning,</hi> and another
+<hi>at even:</hi> on their feaſt dayes they had other ſo<g ref="char:EOLhyphen"/>lemn
+ſacrifices enjoyned, yet ſo as with thoſe ex<g ref="char:EOLhyphen"/>traordinary
+ſacrifices they joyned their daily mor<g ref="char:EOLhyphen"/>ning
+and evening burnt offering. In the 28. and 29.
+Chapters of <hi>Numbers,</hi>
+               <note place="margin">Numb. 28. 10, 15, 23, 24, 31. &amp; 29, 6, 11, 16, 19, 22, 25, 28, 31, 34, 38.</note> where thoſe extraordinary
+ſacrifices on their ſeverall dayes are expreſly ſet
+down, this proviſo (<hi>beſide the continuall burnt offe<g ref="char:EOLhyphen"/>ring</hi>)
+is fifteen times repeated. Ordinary and ex<g ref="char:EOLhyphen"/>traordinary
+prayer joyned together, will adde life
+and power each to other. Ordinary morning pray<g ref="char:EOLhyphen"/>er
+may prove to be a good preparation to the ex<g ref="char:EOLhyphen"/>traordinary
+ordinance: and the evening ordinary
+prayer a means of calling our failings in the extra<g ref="char:EOLhyphen"/>ordinary
+to mind, of craving and obtaining pardon
+for the ſame, and procuring a bleſſing in all. As for
+extraordinary prayer quickned with faſting, it was
+never performed (if at leaſt it were rightly perfor<g ref="char:EOLhyphen"/>med)
+without ſome more then ordinary bleſſing.
+That Dvell, which cannot otherwiſe be caſt our,
+may be <hi>caſt out by prayer and faſting.</hi>
+               <note place="margin">Mat. 17. 21.</note> 
+               <hi>What therefore
+<pb n="17" facs="tcp:155989:12"/>
+God hath joyned together, let no man put aſunder.</hi>
+            </p>
+            <p>I might here diſtinctly ſet out the particular
+branches of his powerfull prayer, as,</p>
+            <p>1. His ſolemn preamble,<note place="margin">Neh. 1. 5.</note> whereby he ſheweth
+how his mind was ſo fixed on Gods greatneſſe and
+goodneſſe as it had wrought a mixture of feare and
+faith.</p>
+            <p>2.<note place="margin">—6.</note> His humble confeſſion of ſinne: of his own
+ſins, of the ſins of his fathers houſe, yea and of the
+whole houſe of <hi>Iſrael.</hi>
+               <note place="margin">Pſ 32. 5. Pro. 28. 13. 1 Ioh. 1. 9. Neh. 1. 8, 9.</note> This, penitently done, is
+the ready way for obtaining mercy and pardon.</p>
+            <p>3. His preſſing Gods own promiſe, whereby he
+teſtifieth on what ground his faith was founded.</p>
+            <p>4. His pleading that ſpeciall relation which was
+betwixt God and them for whom he prayed, thus,
+<hi>Theſe are thy ſervants,</hi>
+               <note place="margin">—10.</note> 
+               <hi>and thy people.</hi> By this he gives
+proof that the mark he aimes at is Gods glory.</p>
+            <p>5. His putting God in mind of his former dea<g ref="char:EOLhyphen"/>ling
+with them, thus, <hi>whom thou haſt redeemed,</hi> &amp;c.
+This ſhews, that by God himſelf, and his former
+dealing with them, he is put on to commend their
+cauſe to him.</p>
+            <p>6.<note place="margin">—11.</note> His quickning of his own ſpirit, by his earneſt,
+ardent expreſſion of his mind.</p>
+            <p>But it being my purpoſe only to cull out ſuch
+diſtinct acts of his as moved him to put God in
+mind of him for good, it might hinder my purpoſe
+to inſiſt on every particular circumſtance in thoſe
+ſeverall acts, that are recorded of him.</p>
+            <p>I return therfore to my principall purpoſe.</p>
+            <p>5. His heart was ready on the ſudden to be rai<g ref="char:EOLhyphen"/>ſed
+to God. For when the King gave him occaſion
+<pb n="18" facs="tcp:155989:13"/>
+to make his mind knowne to him,<note place="margin">Neh. 2. 4.</note> he inſtantly <hi>pray<g ref="char:EOLhyphen"/>ed
+to the God of Heaven:</hi> Not by turning aſide and
+uttering any words to God, but by lifting up
+his heart to God. This is called an ejaculation of the
+ſpirit: when the ſpirit within a man caſteth up a
+ſudden deſire to God. This ſudden deſire might
+be, that God would direct him in ordering his de<g ref="char:EOLhyphen"/>ſire
+to the King, and that God would encline the
+Kings heart to grant his deſire. So much was be<g ref="char:EOLhyphen"/>fore
+thus expreſſed, <hi>Grant me mercy in the ſight of
+this man,</hi> meaning the King. This may be as fer<g ref="char:EOLhyphen"/>vent
+and prevalent, as a ſolemne prayer uttered with
+the mouth, witneſſe that ejaculation of <hi>Moſes</hi> ſpirit,
+when he was in the middeſt of the people, and en<g ref="char:EOLhyphen"/>couraging
+them againſt <hi>Pharaohs</hi> furious hoſte that
+hotly purſued them: He then uttered no words of
+prayer, yet of that ejaculation, or inward deſire,
+ſaith God,<note place="margin">Exod. 14. 15.</note> 
+               <hi>why crieſt thou unto me?</hi> which phraſe
+implyeth great fervency. This frequently and
+heartily uſed argueth an heavenly mind, and holy
+familiarity with God. This is one way whereby
+we may pray <hi>alway, continually,</hi> even by the readi<g ref="char:EOLhyphen"/>neſſe
+of the heart to pray at all times, in all places,
+on all occaſions, when we are alone, or in compa<g ref="char:EOLhyphen"/>ny,
+in conference, reading, ſtudying, working,
+or doing any other lawfull thing. Thus may I now
+in preaching, pray: thus may you even now in
+hearing, pray. Aſſuredly, if we were well diſpo<g ref="char:EOLhyphen"/>ſed
+hereunto, we might have much better ſucceſſe
+in many things we doe, then we have. What good
+ſucceſſe had this Patriot hereupon? God mooved
+the King to grant whatſoever he deſired.<note place="margin">Neh. 2. 8.</note> In ſen<g ref="char:EOLhyphen"/>ding,
+<pb n="19" facs="tcp:155989:13"/>
+in delivering Petitions to the King on earth,
+<hi>Pray to the GOD of Heaven,</hi> as <hi>Nehemiah</hi> did.</p>
+            <p>6. Together with all ſorts of prayer to God,<note place="margin">Neh. 2. 5.</note> he
+uſeth humane helps. He gratefully acknowledgeth
+the Kings former <hi>favour:</hi>
+               <note place="margin">—7.</note> He humbly ſupplica<g ref="char:EOLhyphen"/>teth
+<hi>leave</hi> to goe to <hi>Iudah:</hi>
+               <note place="margin">—8.</note> he deſireth a ſafe con<g ref="char:EOLhyphen"/>voy:
+he craveth the Kings <hi>Letters</hi> patent for all
+uſefull and needfull Timber out of his Forreſts.
+All theſe were lawfull meanes: and ſuch meanes
+are the hand of Gods providence, whereby hee
+bringeth matters to paſſe. It is true indeed, that
+<hi>man liveth not by bread alone:</hi>
+               <note place="margin">Deut. 8. 3.</note> meanes <hi>alone</hi> with<g ref="char:EOLhyphen"/>out
+Gods bleſſing doe no good. <hi>Aſaes</hi> fault con<g ref="char:EOLhyphen"/>ſiſted
+not ſimply in this,<note place="margin">2 Chr. 16. 12.</note> that in his diſeaſe he ſought
+to the <hi>Phyſitians,</hi> but in this, that <hi>he ſought not to the
+Lord</hi> A <hi>woe</hi> is denounced againſt thoſe <hi>that take
+counſell,</hi>
+               <note place="margin">Iſa. 30. 1.—31. 1.</note> 
+               <hi>but not of the Lord, and that cover with a
+covering, but not of his Spirit.</hi> But true alſo it is,
+that where meanes are meet to be uſed, God will
+not bring matters to paſſe without meanes. In the
+great danger wherein <hi>Paul,</hi> and all in the Ship with
+him were, God promiſed that there ſhould be no
+<hi>loſſe of any mans life among them:</hi> yet <hi>when the
+Ship-men</hi> (who are an eſpeciall meanes of helpe in
+feare of wreck) <hi>were about to fly out of the Ship,</hi> Paul
+<hi>ſaid, except theſe abide in the Ship, ye cannot be ſa<g ref="char:EOLhyphen"/>ved.</hi>
+It will therefore be our wiſdome to obſerve
+in the matters that we enterprize, what lawfull
+meanes may be helpefull thereto, and with prayer
+to uſe the ſame. By uſing meanes without prayer
+we preſume: by praying without the uſe of means
+we tempt God.</p>
+            <p>
+               <pb n="20" facs="tcp:155989:14"/>
+7. He goes himſelf to the place where he inten<g ref="char:EOLhyphen"/>ded
+to doe good.<note place="margin">Neh. 2, 11.</note> 
+               <hi>I came to Ieruſalem,</hi> ſaith he. The
+deſire that he had to have the worke throughly
+don, moved him to goe himſelfe about it, and not to
+put it off to others. If men of place and power,
+who wiſh well to Church and State, were ſo min<g ref="char:EOLhyphen"/>ded,
+there would not be ſo many miſcarriages in
+weighty matters,<note place="margin">2 King 4 30.</note> as oft fal out. The <hi>Shunamite</hi> would
+not leave the Prophet, till he himſelfe went to her
+childe. His ſervant went with his ſtaffe, but effe<g ref="char:EOLhyphen"/>cted
+nothing; When he himſelfe came, the deed
+was ſoone done. A difference betwixt a Gentle<g ref="char:EOLhyphen"/>man
+that holdeth his land in his owne hands, and
+ſcarſe raiſeth up ſo much as the ordinary rent
+amounts to, and the Farmer, who beſide the rent,
+raiſeth up a good livelihood, herein lyeth; That the
+Gentleman lying in bed, or following his pleaſures,
+ſaith to his ſervants, <hi>Goe Sirs,</hi> intending that they
+ſhould goe about his worke: But the Farmer ſaith,
+<hi>Gaw Sirs,</hi>
+               <note place="margin">Oculus Domini paſcit equum.</note> that is, <hi>Goe we,</hi> together, or goe with
+me. This Proverbe, <hi>the eye of the Maſter makes the
+horſe fat,</hi> intendeth as much. This may be a good
+patterne to you Governours, to us Miniſters, and
+to all that have the charge of matters of mo<g ref="char:EOLhyphen"/>ment.</p>
+            <p>8. He himſelfe taketh an eſpeciall view of the
+ruines of <hi>Ieruſalem.</hi>
+               <note place="margin">Neh. 2. 13.</note> 
+               <hi>I went out by night,</hi> ſaith he, <hi>and
+viewed the wals of</hi> Jeruſalem, <hi>which were broken
+downe,</hi> &amp;c. He had heard thereof before: but now
+he was an eye-witneſſe; and this increaſed his com<g ref="char:EOLhyphen"/>paſſion,
+enflamed his zeale, and ſtirred him up
+more diligently and throughly to repaire the ru<g ref="char:EOLhyphen"/>ines,
+<pb n="21" facs="tcp:155989:14"/>
+and make up the breaches which he had ſeen
+with his owne eyes. Sight of diſtreſſe is of great
+force to worke on the affections, and to procure
+ſuccour.<note place="margin">Luk. 10. 33.</note> The Samaritan <hi>who came where the wounded
+man was,</hi>
+               <note place="margin">Tu deſceude iudaginis ſtu<g ref="char:EOLhyphen"/>dio, ne quid ſit quod ſallat, aut lateat. Ambx. de Pateiach. Abr l. 1. c. 6.</note> 
+               <hi>and ſaw him, had compaſſion on him,</hi> and ſuc<g ref="char:EOLhyphen"/>coured
+him. Doe ye likewiſe what ye can, to take
+ſpeciall notice of the particular caſes of ſuch as are
+in diſtreſſe, that nothing beguile you, nothing be
+concealed from you. Goe to priſons, viſit the ſicke,
+caſt your eyes on miſerable objects.</p>
+            <p>9. He puts others in mind of that which he and
+they ſaw:<note place="margin">Neh. 2. 17.</note> and ſtirres them up thereby to be aſſiſtant
+to him, in theſe words, <hi>ye ſee the diſtreſſe that we are
+in,</hi> &amp;c. <hi>Come, and let us build up the wall,</hi> &amp;c. This he
+did to ſtirre up ſuch a ſpirit in many others, as he
+himſelfe had, and to obtaine their help: that ſo the
+great worke might the better goe on. For <hi>many
+hands make light worke.</hi>
+               <note place="margin">Multorum ma<g ref="char:EOLhyphen"/>nibus grande le<g ref="char:EOLhyphen"/>vatur onus.</note> The fruit and benefit hereof
+is diſtinctly ſet down in the third Chapter. Where<g ref="char:EOLhyphen"/>fore
+thinke it not enough (in great matters, which
+of and by your ſelves ye cannot to purpoſe accom<g ref="char:EOLhyphen"/>pliſh)
+think it not enough to doe, even to the utter<g ref="char:EOLhyphen"/>moſt
+what lyes in your owne power: ſtir up others
+to be aiding and aſſiſting to you. This juſtifies your
+Proteſtation, your Subſidies, Pole-money, Land<g ref="char:EOLhyphen"/>rate,
+Loanes, and other meanes uſed for aſſiſtance
+from others in the weighty works you have in hand.</p>
+            <p>10. He manifeſteth invincible courage againſt
+ſuch adverſaries as ſought to blaſt all his good in<g ref="char:EOLhyphen"/>tents
+and endeavours.<note place="margin">Neh. 2. 19 20.</note> 
+               <hi>When</hi> Sanballat <hi>and others
+laughed them to ſcorne, and deſpiſed them, he with a</hi>
+confident ſpirit <hi>ſaid, The God of Heaven he will pro<g ref="char:EOLhyphen"/>ſper
+<pb n="22" facs="tcp:155989:15"/>
+us; Therefore we his ſervants will ariſe and build.</hi>
+Behold his courage, behold the ground thereof.
+<hi>We will ariſe and build.</hi> O undaunted Spirit! <hi>God
+will proſper us:</hi> a ſure and ſafe ground. If in any thing
+ye imitate this Patriot, herein imitate him. Be not
+diſcouraged by adverſaries.<note place="margin">1 Cor. 16. 9.</note> 
+               <hi>Where God openeth a
+great and effectuall doore to his ſervants, there will be
+many adverſaries:</hi>
+               <note place="margin">Phil. 1. 28.</note> But <hi>in nothing be terrified by them:</hi>
+and that ye may in nothing be terrified by them, ſo
+place your confidence on God, as ye may in faith
+ſay, <hi>The God of Heaven he will proſper us.</hi>
+            </p>
+            <p>The third Chapter diſtinctly deſcribeth the aſſi<g ref="char:EOLhyphen"/>ſtance
+that was afforded by others in fencing the
+City, and is an expreſſe demonſtration of the bene<g ref="char:EOLhyphen"/>fit
+of helpers, ſet downe in the ninth branch. I there<g ref="char:EOLhyphen"/>fore
+paſſe over this Chapter, that I may haſten to
+my Text.</p>
+            <p>11. In an holy zeale, and juſt indignation, he im<g ref="char:EOLhyphen"/>precates
+vengeance againſt proud, ſcornfull, im<g ref="char:EOLhyphen"/>placable
+enemies of Gods Church, in this manner,
+<hi>Turne their reproach upon their owne head,</hi>
+               <note place="margin">Neh. 4. 4.</note> 
+               <hi>and give
+them for a prey in the land of their captivity, and cover
+not their iniquity,</hi> &amp;c. I muſt confeſſe that the im<g ref="char:EOLhyphen"/>precations
+of holy men recorded in ſacred Scrip<g ref="char:EOLhyphen"/>ture,
+are ſharp, two edged tooles: not for every ones
+handling. When Chriſts Diſciples would have
+<hi>commanded fire</hi> (as <hi>Eliah</hi> did) <hi>to come downe from
+Heaven to conſume the</hi> Samaritans,<note place="margin">Luk. 9. 54. 55.</note> 
+               <hi>he rebuked them,
+and ſaid, Ye know not what manner of ſpirit ye are of.</hi>
+Particular imprecations againſt particular perſons
+are not for every ſpirit; but for ſuch extraordinary
+ſpirits, as Prophets and Apoſtles had: Yet thus
+<pb n="23" facs="tcp:155989:15"/>
+farre may every faithfull ſpirit teſtifie his holy zeal
+in this very kind of imprecation, by an indefinite
+extending it againſt ſuch as are indeed miſchievous
+and irreconcileable enemies of the Church. But
+becauſe <hi>Saul</hi> may prove a <hi>Paul,</hi> and a <hi>perſecutor</hi> may
+prove a <hi>preacher</hi> of the Goſpell, we may not
+imprecate againſt any particular perſons, yet againſt
+their miſchievous practiſes we may.</p>
+            <p>12. Them whom he incited to aſſiſt him, he en<g ref="char:EOLhyphen"/>couraged,
+and that by the ſame ground of encou<g ref="char:EOLhyphen"/>ragement
+whereby he himſelfe was encouraged.
+He was encouraged by his confidence on God;<note place="margin">Neh. 2. 20.—4. 14.</note> and
+thus he encourageth others, <hi>Be not ye afraid of them,
+remember the Lord, who is great and terrible.</hi> To ſuch
+a purpoſe tends this of the Apoſtle,<note place="margin">2 Cor. 1. 4.</note> 
+               <hi>God comforteth
+us in all our tribulations, that we may be able to comfort
+them which are in any trouble, by the comfort wherewith
+we our ſelves are comforted of God.</hi> Ye that are ſtrong,
+doe what ye can to ſtrengthen others: Ye whoſe
+ſpirits are lofty and ſteddy, lift up and hold up the
+ſpirits of others: put courage into others, ye that
+are men of courage. This was Chriſts advice to
+<hi>Peter,</hi>
+               <note place="margin">Luk. 22. 32.</note> 
+               <hi>When thou art converted, ſtrengthen thy bre<g ref="char:EOLhyphen"/>thren,</hi>
+&amp;c.</p>
+            <p>13. In an extraordinary caſe he uſeth extraordi<g ref="char:EOLhyphen"/>nary
+diligence and vigilancy.<note place="margin">Neh. 4. 8, 11, 12</note> The manifold miſ<g ref="char:EOLhyphen"/>chievous
+plots of their adverſaries ſhewed their
+danger to be more then ordinary.<note place="margin">Ver. 0, 16, 17, 20, 21, 23.</note> In this caſe, <hi>he ſet
+a watch againſt them day and night: One halfe of his
+ſervants wrought in the worke, the other halfe held of<g ref="char:EOLhyphen"/>fenſive
+and defenſive weapons. Every workeman
+wrought with one hand, and with another held a weapon,
+<pb n="24" facs="tcp:155989:16"/>
+they had a trumpet to draw them all to the place of dan<g ref="char:EOLhyphen"/>ger;
+they daily watched from the riſing of the Morning
+till the Starres appeared: none of them put off their
+cloathes, ſaving that every one put them off for waſhing.</hi>
+Is not now the more then ordinary paines, watch<g ref="char:EOLhyphen"/>ing,
+looſing meales meat, defenſive proviſion, and
+diligence uſed by our Parliament, is it not every
+way warrantable and commendable? Have we any
+cauſe to complaine thereof? Have we not juſt cauſe
+to bleſſe God therefore?</p>
+            <p>14. He redreſſes home-grievances. He thought
+it not enough to ſecure the City from publike ene<g ref="char:EOLhyphen"/>mies,
+unleſſe alſo he eaſed the common people from
+the oppreſſion of their Governours.<note place="margin">Neh. 5. 1, &amp;c.</note> For <hi>there was
+a great cry of the people and of their wives, againſt their
+brethren the Iewes,</hi> who were Governours, and had
+power over them. The particulars of their com<g ref="char:EOLhyphen"/>plaints
+are expreſly related.<note place="margin">—6, &amp;c.</note> This good Patriot
+heares them all, is much offended at the wrong<g ref="char:EOLhyphen"/>doers,
+adviſeth about redreſſe, and ſo orders the
+matter, that for the wrong done, reſtitution and ſatis<g ref="char:EOLhyphen"/>faction
+is made; and for the future, order is taken
+that there be no more ſuch grievances.</p>
+            <p>Ye that juſtly have obtained the name of <hi>good
+Patriots,</hi> and have begun to redreſſe many grievan<g ref="char:EOLhyphen"/>ces,
+goe on in that good worke, till through Gods
+bleſſing and your endeavours it be brought to ſome
+good perfection, as <hi>Nehemiah's</hi> was. Heare com<g ref="char:EOLhyphen"/>plaints,
+receive Petitions, examine Accuſations, pu<g ref="char:EOLhyphen"/>niſh
+Delinquents, cauſe reſtitution of that which
+is uniuſtly taken away, and ſatisfaction for that
+which is wrongfully done, to be made.</p>
+            <p>
+               <pb n="25" facs="tcp:155989:16"/>
+Ye are now the great Judges of this land:<note place="margin">Iudex &amp; Ara idem: pariter enim ad utru<g ref="char:cmbAbbrStroke">̄</g>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> confugiunt qui inturia afficiu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tur. Archite dict. <hi>Iob</hi> 29. 12.</note> and of
+old it was ſaid, that the Altar and Iudge are as one,
+in that ſuch as are wronged fly to the one and the
+other for ſuccor. Such was <hi>Iobs</hi> practiſe. <hi>I delivered,</hi>
+ſaith he, <hi>the poore that cryed, and the fatherleſse, and
+him that had none to help him.</hi> Remembrance hereof
+much comforted him againſt his friends unjuſt ca<g ref="char:EOLhyphen"/>lumnies
+in the depth of his great miſeries.</p>
+            <p>15. He relieved ſuch as were in diſtreſſe. It was
+not a pharaſaicall brag, but a knowne truth, which
+he thus profeſſeth of himſelfe,<note place="margin">Neh. 5. 8.</note> 
+               <hi>We after our ability
+have redeemed our brethren,</hi> &amp;c. To him it ſeemed
+not ſufficient to redreſſe the wrongs which others
+had done, and to take off the heavy burdens
+which others had laid upon the backs of their
+poore brethren (which was a great privitive good)
+unleſſe alſo poſitively be relieved with money,
+corne, and other neceſſaries, and that <hi>gratis,</hi> ſuch as
+were in need.</p>
+            <p>Hereby we ſee how farre our works of mercy
+ought to extend. This to the life is thus exempli<g ref="char:EOLhyphen"/>fied
+by a Prophet,<note place="margin">Iſa. 58. 6, 7.</note> in the name of the Lord: <hi>Is not
+this the Faſt that I have choſen, to looſe the bands of wic<g ref="char:EOLhyphen"/>kedneſse,
+to undoe the heavy burdens, and to let the op<g ref="char:EOLhyphen"/>preſſed
+goe free, and that ye breake every yoake?</hi>
+(Though this be moſt properly meant of redreſſing
+ſuch wrongs, as men themſelves doe, yet may it
+alſo be extended to redreſſing the wrongs which
+others do; but for the point which we have in hand,
+marke what followes) <hi>Is it not to breake thy bread to
+the hungry, and that thou bring the poor that are caſt out,
+to thy houſe,</hi> &amp;c. This is the extent of charity.</p>
+            <p>
+               <pb n="26" facs="tcp:155989:17"/>
+16. He brought them to a ſolemne covenant and
+oath to binde them to that good order that he had
+made,<note place="margin">Neh. 5 12.</note> leſt they ſhould ſtart from it. It is thus ex<g ref="char:EOLhyphen"/>preſſed,
+<hi>I tooke an oath of them that they ſhould doe ac<g ref="char:EOLhyphen"/>cording
+to their promiſe.</hi> (Their promiſe was this, <hi>We
+will reſtore them, and will require nothing of them: ſo
+will we doe as thou ſayeſt.</hi>) Yea he made a terrible im<g ref="char:EOLhyphen"/>precation
+againſt every one that performed not this
+promiſe. He feared leaſt in his abſence, when he
+ſhould in the time limited returne to the King, they
+would returne to their former exactions and oppreſ<g ref="char:EOLhyphen"/>ſions.
+Therefore he would hereby reſtraine them.
+A pious and prudent courſe. The like courſe we read
+to be taken by <hi>Aſa,</hi> who bound his people by <hi>Co<g ref="char:EOLhyphen"/>venant</hi>
+and <hi>Oath</hi> to remaine faithfull with the
+Lord.<note place="margin">2 Chr. 15 12. &amp;c.</note>
+            </p>
+            <p>This is the rather to be noted for juſtification and
+commendation of the courſe which both Houſes of
+Parliament have taken, about bringing moſt of this
+Land into a ſolemne Covenant. The Lord make
+men faithfull in keeping it, and give a happy iſſue
+thereto.</p>
+            <p>17. For the peoples good in their neceſſity he
+remitted of his own right. For he was by the King
+<hi>appointed a Governour;</hi> and Governours had allow<g ref="char:EOLhyphen"/>ances
+due to them, which former Governours had
+taken: By reaſon hereof they were <hi>chargeable to the
+people, and had taken of them bread and wine, beſide forty
+ſhekels of ſilver</hi> (that is,<note place="margin">
+                  <hi>Neh.</hi> 5. 14, 15. Siclus S Scrip<g ref="char:EOLhyphen"/>turae po<g ref="char:cmbAbbrStroke">̄</g>derabat ſtateremunum, ſeu ſemiunciam Shind.</note> five pounds ſterling; for a
+ſhekell is halfe an ounce, which makes two ſhil<g ref="char:EOLhyphen"/>lings
+ſixe pence: They exacted the foreſaid <hi>bread
+and wine,</hi> that is, all manner of proviſion,
+<pb n="27" facs="tcp:155989:17"/>
+(<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Poſt argeti fi<g ref="char:EOLhyphen"/>clos, poſl quam accepiſsent ab eis 40 ſiclos ar<g ref="char:EOLhyphen"/>genti, olim con<g ref="char:EOLhyphen"/>ſtituros ancibus pro victu ſuo. Vatabl Summumius ſumma tniuria. Ci. Offic l &amp; Orat pro Mur.</note> beſide the <hi>forty ſhekels,</hi> which was their ſet al<g ref="char:EOLhyphen"/>lowance)
+<hi>But,</hi> ſaith he, <hi>from the time that I was appoin<g ref="char:EOLhyphen"/>ted
+to be their Governour, I and my brethren have not
+eaten the bread of the Governour.</hi> He renders this rea<g ref="char:EOLhyphen"/>ſon
+hereof, <hi>becauſe of the feare of God.</hi>
+            </p>
+            <p>They therefore that feare the Lord will be like
+minded: they will not over-ſtrictly ſtand upon
+their right, eſpecially in times of neceſſity, and
+caſes of extremity. Over-ſtrict ſtanding upon right
+may prove a great oppreſſion.</p>
+            <p>18. He, though a Governour, did beare a part in
+that which he required others to doe. <hi>I alſo,</hi> ſaith he,
+<hi>continued in the worke of the wall:</hi>
+               <note place="margin">Neh 5. 16.</note> 
+               <hi>neither bought we
+any Land: and all my ſervants were gathered thither
+unto the worke.</hi> He had done much for them through
+the Kings favour to him,<note place="margin">Neh. 2. 8.</note> and through that power
+and authority which the King had given him: For
+he obtained for them as much timber as was need<g ref="char:EOLhyphen"/>full
+out of the Kings Forreſt: He drew on others
+that were able to help on the building of the wals:
+He made ſpeciall proviſion for their ſecurity againſt
+their adverſaries: He did many other good turnes
+for them; yet ſo long as there remained any thing
+which might further be done by him or his, all that
+he had done, though it were much, ſeemed to him
+too little.</p>
+            <p>A worthy patterne this is to ſuch as have done
+much good, to obſerve whether yet there be any
+thing wherein they may doe more good,<note place="margin">Gal. 6. 9.</note> 
+               <hi>Let us not
+be weary in well doing.</hi>
+            </p>
+            <p>19.<note place="margin">Rom 12. 13. 1 Pet. 4. 9. Neh. 5. 17.</note> He was <hi>given to Hoſpitality,</hi> and <hi>uſed it with<g ref="char:EOLhyphen"/>out
+grudging.</hi> For <hi>there were at his Table one hun<g ref="char:EOLhyphen"/>dred
+<pb n="28" facs="tcp:155989:18"/>
+and fifty of the</hi> Jewes <hi>and Rulers, beſides thoſe
+that came unto them from among the Heathen.</hi> So
+as he entertained all of all ſorts:<note place="margin">Heb. 13. 2.</note> ſuch as had their
+habitations thereabouts, and ſuch as were ſtrangers
+and came out of other countries. Thus he made his
+entertainment not onely a worke of <hi>courteſie</hi> in af<g ref="char:EOLhyphen"/>fording
+it to Neighbours and Rulers, who might
+have provided for themſelves: but alſo of <hi>charity</hi>
+in extending it to ſtrangers. How bountifull he
+was therein is made evident by the daily proviſion
+prepared for thoſe purpoſes, as <hi>one Oxe, ſix choice
+Sheepe: alſo Foules once in ten daies, and ſtore of
+all ſorts of wine.</hi> Hoſpitality to ſtrangers as well
+as others,<note place="margin">Gen. 18. 1, &amp;c.—19. 1. &amp;c. Heb. 13. 2. Mat. 25. 34, 35.</note> is ſo acceptable to God, as he ſent <hi>An<g ref="char:EOLhyphen"/>gels</hi>
+with bleſſed tydings to be gueſts to ſuch per<g ref="char:EOLhyphen"/>ſons:
+and Chriſt reckons up this worke of charity
+in ſpeciall and by name among thoſe which he doth
+moſt abundantly recompence.</p>
+            <p>I will conclude this particular with that exhorta<g ref="char:EOLhyphen"/>tion
+which Chriſt gave upon anothers act of Hoſ<g ref="char:EOLhyphen"/>pitality,<note place="margin">Luk. 10. 37.</note>
+               <hi>Goe and doe likewiſe.</hi>
+            </p>
+            <p>20. Whatſoever hee did, hee did in reſpect to
+God. Hee expected no reward from man: nor
+did he propound any bie-ends to himſelfe: nor
+did any thing on bie-reſpects. My Text gives a
+plain demonſtration hereof. For therby we ſee that
+his mind was fixed on his God. On God he cals to
+think upon him, from God he expects his reward
+for all that he had done. How many <hi>Nehemiahs,</hi> how
+many good and zealous Patriots would this and o<g ref="char:EOLhyphen"/>ther
+Kingdomes have, if we had many men of place
+and parts ſo minded? Every one that minds God
+<pb n="29" facs="tcp:155989:18"/>
+in every good thing that he doth, and expects his
+reward from him, in ſuch a way, after ſuch a man<g ref="char:EOLhyphen"/>ner
+as <hi>Nehemiah</hi> did, may with like confidence ſay
+to God, <hi>Thinke on me my GOD for good,</hi> accor<g ref="char:EOLhyphen"/>ding
+<hi>to all that I have done for this people.</hi>
+            </p>
+            <p>By this recollection of the principall acts of this
+Patriot, you ſee what remarkable matters he did:
+what difficulties and dangers hee paſſed thorow,
+what encouraged and emboldned him to ſtand a<g ref="char:EOLhyphen"/>gainſt
+ſo many, mighty, malignant adverſaries
+as he met withall, and what was the happy iſſue of
+all. Hereby alſo you may further ſee what be<g ref="char:EOLhyphen"/>comes
+worthy Patriots to doe:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (virtutem intelligit) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Heſiod.</note> what dangers and
+difficulties they may meet withall: (for what ex<g ref="char:EOLhyphen"/>cellent
+worke is not environed with many difficul<g ref="char:EOLhyphen"/>ties,
+yea and dangers too?) with what courage
+and conſtancy they ought to ſtand againſt malig<g ref="char:EOLhyphen"/>nant
+parties: on whom they may ſecurely place
+their confidence: and on what ground any one
+may ſay, <hi>Thinke on me, my GOD, for good,</hi> ac<g ref="char:EOLhyphen"/>cording
+<hi>to all that I have done for this people.</hi>
+            </p>
+            <p>Thus have I brought you againe to my Text:
+which (as you heard before) affords many conſide<g ref="char:EOLhyphen"/>rable
+Obſervations. So much time hath bin ſpent
+in ſetting out the patterne of a worthy Patriot, as
+there can be no expectation of handling all the nine
+Doctrines collected out of this Text. The firſt is
+the chiefeſt of all and comprizeth the pith of all the
+reſt within it. May I have liberty and ability to
+touch upon it, I will give place to my reverend
+Brother, that with greater ſtrength may hold out
+the ſolemnization of this daies humiliation.</p>
+            <p>
+               <pb n="30" facs="tcp:155989:19"/>
+The firſt Obſervation is this,</p>
+            <p>God is the Support of Saints.</p>
+            <p>1. He is a <hi>Support,</hi> becauſe he is <hi>God.</hi>
+            </p>
+            <p>2. <hi>He</hi> is ſo to <hi>Saints,</hi> becauſe he is a <hi>peculiar God</hi>
+to them.</p>
+            <p>3. <hi>Saints</hi> know it to be ſo, in that they are <hi>Gods
+Remembrancers,</hi> and call upon him to <hi>thinke</hi> upon
+them.</p>
+            <p>4. <hi>Saints</hi> with more confidence reſt on God for
+Support, becauſe his mind is ſooneſt drawne to
+them: whereupon every <hi>Saint</hi> ſaith to God, <hi>thinke
+upon me.</hi>
+            </p>
+            <p>5. Their expectation of <hi>good</hi> from God further
+ſhewes, that they take him for their Sup<g ref="char:EOLhyphen"/>port.</p>
+            <p>6. Their pleading of their workes before God,
+gives further proofe to the point.</p>
+            <p>7. The rather in that their works are the rule <hi>ac<g ref="char:EOLhyphen"/>cording</hi>
+to which God rewards them.</p>
+            <p>8. And in that he rewardeth <hi>every</hi> good worke
+of theirs.</p>
+            <p>9. And finally, in that God hath moſt and beſt
+reſpect to that which is done to <hi>his people.</hi>
+            </p>
+            <p>Thus you ſee how the eight ſubſequent Doctrins
+have an eye to the firſt: ſo as I had cauſe to ſay,
+that the firſt compriſeth the pith of all the reſt
+within it. I come now directly and diſtinctly to
+handle it by it ſelf. It is this,</p>
+            <p>
+               <hi>God is the Support of Saints.</hi>
+            </p>
+            <p>Many, many Epithites attributed to him in ſa<g ref="char:EOLhyphen"/>cred
+Scripture, are as ſo many proofs of the point:
+ſuch as theſe,<note n="a" place="margin">Pſ. 14 6.</note> 
+               <hi>Refuge,</hi>
+               <note n="b" place="margin">—31. 2.</note> 
+               <hi>Houſe of defence,</hi>
+               <note n="*" place="margin">—6 13.</note> 
+               <hi>Shelter,</hi>
+               <pb n="31" facs="tcp:155989:19"/>
+               <note n="c" place="margin">Pſ 18. 2.</note> 
+               <hi>Fortreſse, high Tower, Buckler, Rocke,</hi>
+               <note n="d" place="margin">—119 114.</note> 
+               <hi>Hiding place,</hi>
+               <note n="e" place="margin">Iſa 49. 26.</note> 
+               <hi>Saviour, Redeemer,</hi>
+               <note n="f" place="margin">Pſ. 40 17.</note> 
+               <hi>Deliver</hi>
+               <note n="g" place="margin">—54. 4.</note> 
+               <hi>Helper,</hi>
+               <note n="h" place="margin">Heb. 11. 6.</note> 
+               <hi>Re<g ref="char:EOLhyphen"/>warder,</hi>
+yea<note n="i" place="margin">Pſ. 27. 1.</note> 
+               <hi>Salvation,</hi>
+               <note n="k" place="margin">1 Cor. 1. 30.</note> 
+               <hi>Redemption,</hi>
+               <note n="l" place="margin">Pſ 115. 9.</note> 
+               <hi>Help,</hi>
+               <note n="m" place="margin">Gen. 15. 1.</note> 
+               <hi>Ex<g ref="char:EOLhyphen"/>ceeding
+great Reward.</hi> Theſe latter Epithites being
+in the abſtract (whereby is ſhewed that all Salva<g ref="char:EOLhyphen"/>tion,
+Redemption, Helpe and Reward ariſe only
+and wholy from him) add much Emphaſis to the
+point.</p>
+            <p>There are two eſpeciall grounds thereof.</p>
+            <p>1. Saints taking God to be their Support.</p>
+            <p>2. Gods undertaking to bee to his Saints,
+what they take him to be.</p>
+            <p>To him on all occaſions they have recourſe for
+Support: and He anſwerably ſupporteth them that
+have recourſe to him. He never faileth them that
+ſeek him.</p>
+            <p>Three things move Saints to take God for their
+Support.</p>
+            <p>1. The many enemies and dangers whereunto
+they are here ſubject. This world is a wilderneſſe
+of wild and ravenous Beaſts. All ſorts of wicked
+men are thoſe wild and ravenous Beaſts: they are
+as Lyons, Tigers, Bears, Wolves, and ſuch like.
+Saints are as Sheepe and Lambes. In alluſion here<g ref="char:EOLhyphen"/>unto
+ſaith Chriſt,<note place="margin">Mat. 10. 16.</note> 
+               <hi>Behold I ſend you forth as Sheepe in
+the midſt of Wolves.</hi> This their condition in this
+world makes them ſeeke for a Support.</p>
+            <p>2. Their owne manifold infirmities by reaſon of
+the fleſh which they carry about them. They are
+(to uſe the woman of <hi>Tekoahs</hi> phraſe) <hi>as water ſpilt
+upon the ground,</hi>
+               <note place="margin">2 Sam. 14. 14.</note> 
+               <hi>which cannot be gathered up again:</hi>
+or to uſe a more pertinent compariſon, <hi>They</hi> are as
+<pb n="32" facs="tcp:155989:20"/>
+a Vine full of moſt ſweet and uſefull fruit, yet ſo
+weake, as it cannot ſtand of it ſelf, without a frame,
+or ſome other ſupport to beare it up. The weake<g ref="char:EOLhyphen"/>neſſe
+of Saints makes them ſeek for a ſtrong ſupport:
+which they know God to be.</p>
+            <p>3. The impotency and diſability of any creature
+to helpe and ſupport them.<note place="margin">Ezek. 20. 6, 7.</note> All creatures are as
+reeds, weake, brickle, full of teeth: if they be lea<g ref="char:EOLhyphen"/>ned
+upon they will ſoone breake and teare the fleſh
+of ſuch as leane upon them. So as it is not onely
+unuſefull and in vaine, but alſo dangerous and da<g ref="char:EOLhyphen"/>mageable
+to reſt on meere creatures for a ſup<g ref="char:EOLhyphen"/>port.</p>
+            <p>More then three things move God to be for his
+Saints, what they take him to be: as</p>
+            <p>1. That ancient love which of his owne good<g ref="char:EOLhyphen"/>will
+he did beare to them before they were, yea be<g ref="char:EOLhyphen"/>fore
+the worlds were. This doth the Apoſtle lay
+downe as the ground of all thoſe ſpirituall bleſſings
+wherewith God bleſſeth us, Eph. 1. 3, 4, 5, 6. This
+he makes the ground of Gods <hi>quickning us toge<g ref="char:EOLhyphen"/>ther
+with Chriſt,</hi>
+               <note place="margin">Eph. 2. 4, 5, 6.</note> 
+               <hi>and of his raiſing us up together,
+and making us ſit together in heavenly places in
+Chriſt Ieſus.</hi>
+            </p>
+            <p>2.<note place="margin">1 Cor 6. 20 1 Pet. 1. 19. Heb. 9. 12</note> That price which the Sonne of God hath paid
+for them, which was his own <hi>precious blood.</hi> Here<g ref="char:EOLhyphen"/>by
+<hi>he obtained eternall redemption for them.</hi>
+            </p>
+            <p>3.<note place="margin">Rom. 8 34. Heb 7. 25.</note> That continuall <hi>interceſſion</hi> which he maketh for
+them at the right hand of his Father. Hereby hee
+procureth continuance of Gods favour to them.</p>
+            <p>4. That ſtamp or impreſſion of Gods image,
+which the Holy Ghoſt hath ſet in them,<note place="margin">Eph 1 13.—4 30.</note> and wher<g ref="char:EOLhyphen"/>by
+<pb n="33" facs="tcp:155989:20"/>
+by they are <hi>ſealed unto the day of Redemption:</hi> Here<g ref="char:EOLhyphen"/>by
+God knoweth them to be his.</p>
+            <p>5. The many promiſes which God hath made
+to them of caring and providing for them, and of
+protecting them from all dangers and evils,<note place="margin">Heb. 10. 23.</note> and
+<hi>faithfull is he who hath promiſed.</hi>
+            </p>
+            <p>6. Their faith in reſting upon thoſe promiſes.
+This makes them put God in mind thereof, as <hi>He</hi>
+did,<note place="margin">Pſ. 119. 49.</note> who thus ſaid, <hi>Remember thy word</hi> (meaning
+his word of promiſe) <hi>upon which thou haſt cauſed
+me to hope.</hi>
+            </p>
+            <p>This Act of Saints in taking God for their ſup<g ref="char:EOLhyphen"/>port
+is an evidence of that <hi>wiſedome and prudence
+wherein God,</hi>
+               <note place="margin">1 Information in the wiſdom of Saints who take God for their ſupport. Eph. 1. 7, 8.</note> 
+               <hi>according to the riches of his grace,
+hath abounded towards them.</hi> For ſuch as are not a<g ref="char:EOLhyphen"/>ble
+to ſtand of themſelves, to ſeeke a Support, and
+ſuch an one as of it ſelfe can ſufficiently ſupport
+them, ſo as they need ſeeke to no others, is queſti<g ref="char:EOLhyphen"/>onleſſe
+an eſpeciall part of prudence. But ſuch a ſup<g ref="char:EOLhyphen"/>port
+the Lord is. For</p>
+            <p>1.<note place="margin">1 Chr. 19 9.</note> The eyes of the Lord runne to and fro through<g ref="char:EOLhyphen"/>out
+the whole Earth to ſhew himſelfe ſtrong in the
+behalfe of them, whoſe heart is perfect towards him:
+<hi>ſo as he is not, he cannot be ignorant of the needs
+or diſtreſſes of any of his Saints.</hi>
+               <note place="margin">Exod. 3. 7.</note> I have ſurely ſeen
+the affliction of my People, <hi>ſaith the Lord.</hi>
+            </p>
+            <p>2. As <hi>the eyes of the Lord are over the righteous,</hi>
+               <note place="margin">1 Pet. 3. 12.</note>
+               <hi>ſo his eares are open to their prayers.</hi> What cry ſoe<g ref="char:EOLhyphen"/>ver
+they make to him in their diſreſſe for ſuccour
+and ſupport, he heareth.</p>
+            <p>3. He is ready and forward to doe what he ſe<g ref="char:EOLhyphen"/>eth
+to be needfull and uſefull for them, <hi>I know their
+<pb n="34" facs="tcp:155989:21"/>
+ſorrowes, and I am come downe to deliver them,</hi> ſaith
+the Lord to his people that were in diſtreſſe. Ma<g ref="char:EOLhyphen"/>ny
+promiſes hath he made for granting their de<g ref="char:EOLhyphen"/>ſires.<note place="margin">Pſal. 50. 15.</note>
+The more to ſet out Gods forwardneſſe in
+granting his Saints deſires,<note place="margin">Dan. 9. 23.</note> an <hi>Angell</hi> ſent from
+God to <hi>Daniel</hi> while he was praying, thus ſaith, <hi>At
+the beginning of thy ſupplication the Commandement
+came forth,</hi>
+               <note place="margin">Iſa. 65. 24.</note> &amp;c. and the Lord himſelfe, thus, <hi>be<g ref="char:EOLhyphen"/>fore
+they call I will anſwer, and whiles they are yet
+ſpeaking I will heare.</hi>
+            </p>
+            <p>4.<note place="margin">Pſal. 86. 15. Ier. 31. 20.</note> He is full of compaſſion: in ſo much as <hi>his
+bowels are troubled</hi> for his children when they are in
+any diſtreſſe: thereupon he maketh this inference,
+<hi>I will ſurely have mercy upon them.</hi> Nothing ſoo<g ref="char:EOLhyphen"/>ner
+moves any to ſuccour and ſupport, then com<g ref="char:EOLhyphen"/>paſſion.
+It is oft noted to be the cauſe of that ready
+ſuccour which Chriſt in the daies of his fleſh affor<g ref="char:EOLhyphen"/>ded
+to all that came to him, that he <hi>had compaſſion
+on them,</hi>
+               <note place="margin">Mat. 14. 14.—15 30. ark. 1. 41.</note> and was <hi>moved</hi> therewith.</p>
+            <p>5. Hee is able to ſupport his in their greateſt
+weakneſſes,<note place="margin">Eph. 7. 13.</note> and to deliver them out of their great<g ref="char:EOLhyphen"/>eſt
+diſtreſſe. <hi>Behold</hi> (ſaith the Lord) <hi>I am the Lord
+the God of all fleſh.</hi>
+               <note place="margin">Ier. 32. 27. Luk. 18. 27.</note> 
+               <hi>Is there any thing too hard for
+me? The things which are unpoſſible with men are
+poſſible with God.</hi>
+            </p>
+            <p>6. As God <hi>is might in ſtrength,</hi> ſo in <hi>wiſedome.
+His underſtanding is infinite.</hi>
+               <note place="margin">Iob 36. 5. Pſal. 147. 5.</note> He beſt knoweth when
+to ſupport his and how: yea and how long to con<g ref="char:EOLhyphen"/>tinue
+his ſupport to them. If at any time he ſeeme
+to leave them to themſelves, he doth it purpoſely,
+prudently, for good ends to good uſes. And even
+then when he ſuffers them to lye under afflictions, he
+<pb n="35" facs="tcp:155989:21"/>
+ſo wiſely ſupporteth them, as they are enabled to en<g ref="char:EOLhyphen"/>dure
+it, and are not overburdened: Witneſſe he that
+ſaid, <hi>We are troubled on every ſide, yet not diſtreſſed; we
+are perplexed,</hi>
+               <note place="margin">2 Cor. 4. 8, 9.</note> 
+               <hi>but not in deſpaire; perſecuted, but not for<g ref="char:EOLhyphen"/>ſaken;
+caſt downe, but not deſtroyed:</hi> Yea through his
+wiſedome (<hi>as at first he commanded the light to ſhine
+out of darkneſse,</hi>
+               <note place="margin">2 Cor. 4. 6.</note> ſo) he bringeth much good to
+Saints out of their troubles. <hi>For we know that all
+things worke together for good to them that love God.</hi>
+This by good experience he found to be true in
+himſelfe,<note place="margin">Pſal. 119. 7.</note> who ſaid, <hi>It is good for me that I have been
+afflicted.</hi>
+            </p>
+            <p>Theſe conſiderations of the notice that God hath
+of his peoples ſtate and caſe, of his hearing their
+prayers, of his forwardneſſe to grant their deſires, of
+his compaſſion at their diſtreſſe, of his power and
+ability to help, and of his wiſedome in ordering the
+ſeaſon and manner of ſuccour: Theſe and other like
+conſiderations give a cleare and evident demonſtra<g ref="char:EOLhyphen"/>tion,
+that God is a ſafe, ſure, and ſecure ſupport,
+whereby the wiſedome of Saints is manifeſted in
+taking him for their ſupport. In this therefore re<g ref="char:EOLhyphen"/>ſpect,
+as in many others,<note place="margin">Deut 4. 6.</note> it may be ſaid of them,
+<hi>Surely this is a wiſe and understanding people.</hi>
+            </p>
+            <p>On the other ſide,<note place="margin">2 Demonſtra<g ref="char:EOLhyphen"/>tion of their folly who take not God for their ſupport.</note> it muſt needs be a part of egre<g ref="char:EOLhyphen"/>gious
+folly and plaine dotage, to confide in, or truſt
+unto any other ſupport then this God. Yet moſt in
+the world are ſuch doting fooles: As,</p>
+            <p>1.<note place="margin">Pſal. 14. 1.</note> 
+               <hi>Atheiſts,</hi> who <hi>ſay in their hearts there is no
+God.</hi> Surely they who deny him to be, will not reſt
+on him for ſupport.</p>
+            <p>2. <hi>Pagans,</hi> who being ignorant of the one onely
+<pb n="36" facs="tcp:155989:22"/>
+true God, place their confidence on ſuch things as
+never were, never had any true being, but were
+meere phantaſies and imaginations of mens vaine
+braine. Such as <hi>Baalim, Aſhteroh, Dagon, Mo<g ref="char:EOLhyphen"/>lech,</hi>
+and ſuch other as are mentioned in ſacred
+Scripture: And <hi>Iupiter, Iuno, Apollo, Diana, Mer<g ref="char:EOLhyphen"/>cury,
+Venus,</hi> and multitudes of the like reckoned
+up by the heathen.<note place="margin">Heſiod in Osoyor.</note> One of their Poets reckoneth up
+about thirty thouſand of them: Others more.</p>
+            <p>3.<note place="margin">Purch. Pilgr. <hi>of</hi> Aſia, l. 4. c. 1.</note> 
+               <hi>Indian Savages,</hi> who make the Devil their
+ſupport, and adore him, that he may not hurt them
+and their cattell. A part of their countrey is called
+<hi>Terra Diaboli,</hi> the <hi>Devils Land.</hi> To retort upon
+theſe in their owne kinde, Not onely <hi>no hurt,</hi> but
+<hi>good,</hi> is to bee expected from ſuch as are adored, as
+it is in my Text, Thinke upon me <hi>for good.</hi>
+            </p>
+            <p>4. <hi>Papiſts,</hi> who make the innumerable company
+of Angels, the bleſſed <hi>Virgin Mary, Apostles, Con<g ref="char:EOLhyphen"/>feſſors,
+Martyrs,</hi> and all that their Popes have cano<g ref="char:EOLhyphen"/>nized:
+Whereof ſome may be accounted, ſuch as
+the forementioned Gods of the <hi>Pagans,</hi> meere <hi>phan<g ref="char:EOLhyphen"/>taſies</hi>
+and imaginations; and others, without breach
+of charity, may be judged to be damned wretches
+in Hell.</p>
+            <p>5. <hi>Worldlings,</hi> who reſt on mortall men, and
+earthly meanes, which are all like to the foremen<g ref="char:EOLhyphen"/>tioned
+weake reed full of teeth.<note place="margin">Iſa. 31. 1.</note> The Prophet de<g ref="char:EOLhyphen"/>nounceth
+a <hi>woe</hi> againſt ſuch.</p>
+            <p>6.<note place="margin">2 Sam. 16. 21. and 17. 1, &amp;c. 1 Sam. 17. 8. &amp;c.</note> 
+               <hi>Self-boaſters,</hi> who truſt to themſelves, to their
+owne parts, or to that command which they have
+over others: As <hi>Achitophel</hi> who relyed on his own
+wit;<note place="margin">Iſa. 10. 8, &amp;c.</note> 
+               <hi>Goliah</hi> on his owne ſtrength; the <hi>Aſſyrian</hi> on
+<pb n="37" facs="tcp:155989:22"/>
+the great command which he had: ſo others to other
+things; all which turne to their ruine.</p>
+            <p>
+               <hi>Of all theſe, and others like to theſe, I may, con<g ref="char:EOLhyphen"/>cerning
+the caſe in hand, take up the Prophets pa<g ref="char:EOLhyphen"/>theticall
+Exclamation,</hi>
+               <note place="margin">Ier. 2. 12, 13.</note> Be aſtoniſhed, O ye Heavens at
+this and be ye horribly afraid, be ye very deſolate, ſaith
+the Lord: For my people have committed two evils;
+they have forſaken me the fountaine of living waters,
+and hewed them out ciſternes, broken cisternes that can
+hold no water.</p>
+            <p>As for you that have been ſo farre enlightened
+as to know God to be the onely ſure and ſafe ſup<g ref="char:EOLhyphen"/>port,<note place="margin">3 Exhortation to uſe God as a Support.</note>
+and thereupon have been moved to take him
+for your ſupport, be now further in the name of this
+God exhorted, to uſe him as a ſupport. Uſe him as
+a <hi>Refuge, Shelter, Houſe of Defence, Fortreſſe, high
+Tower, Buckler, Shield, Rock, Hiding place.</hi> Theſe re<g ref="char:EOLhyphen"/>ſemblances
+will affoord good help for making a
+right uſe of the Lord in this very point, as he is a
+ſupport to his Saints.</p>
+            <p>1. A <hi>refuge</hi> is a place for ſuch as are in danger to
+fly unto for ſuccour and ſecurity. Such were the Ci<g ref="char:EOLhyphen"/>ties
+of Refuge among the Jewes. When a man was
+unjuſtly ſuſpected of wilfull murder, and hotly pur<g ref="char:EOLhyphen"/>ſued
+by the avenger of bloud, he made all the ſpeed
+he could to the City of Refuge. There was his
+cauſe rightly judged, there might he be ſecure. Doe
+you alſo fly to God in all undue ſuſpicions and un<g ref="char:EOLhyphen"/>juſt
+accuſations. In him you may be ſure to have
+your cauſe righted, and your perſons ſecu<g ref="char:EOLhyphen"/>red.</p>
+            <p>2. A <hi>Shelter</hi> is for ſuch as in their journey are over<g ref="char:EOLhyphen"/>taken
+<pb n="38" facs="tcp:155989:23"/>
+taken with ſhowres of rain, with haile, ſnow, ſtorm
+or tempeſt: In ſuch caſes, if a traveller eſpy a ſhelter,
+he will make haſte to it. God hath undertaken to be
+<hi>a covert from storme and raine.</hi>
+               <note place="margin">Iſa. 4 6.</note> When the raging
+raine of oppreſſion, or ſtorme of perſecution, or
+violent tempeſt of any malignant oppoſition fals
+upon you, ſhelter your ſelves under the covert of
+your God.</p>
+            <p>3. An <hi>Houſe of Defence,</hi> or <hi>Caſtle,</hi> or <hi>Fortreſſe,</hi> or
+<hi>High Tower,</hi> are all for ſafety againſt armies of ene<g ref="char:EOLhyphen"/>mies
+that compaſſe us about, and beſiege us, and
+would utterly deſtroy us, if we had not ſuch a place
+of ſafety. Now the Lord is indeed an high and
+ſtrong Tower, an impregnable Caſtle: abide there<g ref="char:EOLhyphen"/>fore
+in him, and feare not, though multitudes of
+enemies doe on every ſide ſet againſt you. They are
+ſafe whom the Lord doth keep.</p>
+            <p>4. A <hi>Buckler</hi> or <hi>Shield</hi> is of ſingular uſe to keep
+off puſh of pike, ſtroake of ſword, force of dart,
+arrow or bullet that ſhall be flung, or ſhot againſt us:
+So faith in God will keep off all aſſaults of Satan,
+even all the <hi>fiery darts of the Devill;</hi>
+               <note place="margin">Eph. 6. 16.</note> much more the
+furious, envious, and malicious words and deeds of
+wicked men.</p>
+            <p>5. A <hi>Rocke</hi> is a firme and ſure foundation. An
+edifice that is well erected and ſetled on it, cannot
+be overthrowne.<note place="margin">Mat 7 24, 25.</note> Though <hi>the raine deſcend and the
+flouds come, and the wind blow, and beat upon that houſe,
+yet it fals not becauſe it is founded on a rock.</hi> For appli<g ref="char:EOLhyphen"/>cation
+of this Metaphor, note what Chriſt ſaith of
+himſelfe as he is a rocke:<note place="margin">Mat 16. 18.</note> 
+               <hi>Vpon this rocke will I build
+my Church, and the gates of hell ſhall not prevaile againſt
+it.</hi>
+            </p>
+            <p>
+               <pb n="39" facs="tcp:155989:23"/>
+Againe, a rock being in the Sea remains immove<g ref="char:EOLhyphen"/>able:
+The ſtrongeſt tempeſts and violenteſt waves of
+the Sea cannot ſhake it, much leſſe overthrow it.
+If therefore any who have ſuffered ſhipwracke lye
+floating on the Sea, and eſpye a rocke, they will
+make to it: ſo in our greateſt troubles, and moſt deſ<g ref="char:EOLhyphen"/>perate
+dangers, let us get to God the rocke of our
+ſalvation, and we may be ſure to be ſafe.</p>
+            <p>6. An <hi>hiding place,</hi> is that wherein in many beaſts doe
+repoſe themſelves on all occaſions: As a Connies
+burrow, a Foxes hole, a Lyons den: when they are
+there they thinke themſelves ſafe: There therefore
+they uſe to ſleep; there they uſe to carry the prey
+they get, and there to eat it: if they be hunted, or
+fear any danger, they wil make thither as faſt as they
+can: If they be hurt or wounded, there they uſe to
+licke themſelves whole: yea in theſe their hiding
+places they die for the moſt part, if at leaſt they be
+not ſurpriſed, and kild when they are out of their
+den or hiding place. Seeing it pleaſeth the Holy
+Ghoſt to attribute unto God this reſemblance of<note place="margin">Pſal. 119. 114. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+ſafety (For the Pſalmiſt ſtileth God his <hi>hiding place:</hi>
+and the Prophet a <hi>covert</hi>) give me leave in Chriſts
+phraſe to ſay unto you,<note place="margin">Latibulu<g ref="char:cmbAbbrStroke">̄</g> meum. <hi>Iſa</hi> 4. 6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Behold the beaſts of the field:</hi>
+Behold them in this particular,<note place="margin">Abſcontio.</note> and uſe God your
+hiding place, as they uſe their holes and dennes.
+On all occaſions repoſe your ſelves on him, and reſt
+ſecure in him when ye ſleep, when ye wake. Have
+ye good ſucceſſe in your affairs? (as the beaſt thinks
+he hath when he gets a prey) goe to God to re<g ref="char:EOLhyphen"/>joyce
+in him, and to give the praiſe to him. Doe thy
+affaires ſucceed ill? even then alſo goe to God, to
+<pb n="40" facs="tcp:155989:24"/>
+mourne in him, to powre out thy ſoule into his bo<g ref="char:EOLhyphen"/>ſome.
+Art thou hunted or perſecuted? fly
+to God for ſuccour and protection. Art thou abu<g ref="char:EOLhyphen"/>ſed,
+wronged, or hurt? To God for redreſſe and
+right. In peace and trouble, in hope and feare, in
+ſafety and danger, in all caſes, on all occaſions have
+recourſe to God, live in God, die in God.</p>
+            <p>Doe this the rather, becauſe as followeth in the
+next obſervation.</p>
+            <p>The Lord is a peculiar God to a beleever.</p>
+            <p>But my time is ſlipt out, and I find my ſtrength to
+faile, and you find my voice to fall, willingly there<g ref="char:EOLhyphen"/>fore
+I give place to my reverend brother: Only let
+us firſt call upon God for his bleſſing upon that
+which hath been delivered, and give
+him thanks for his gracious
+aſſiſtance.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
